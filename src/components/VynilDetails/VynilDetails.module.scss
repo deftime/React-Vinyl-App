@@ -1,0 +1,235 @@
+@import "../../styles/variables";
+@import "../../styles/templates";
+
+.wrapper {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  background-color: rgba(229, 229, 229, 0.9);
+  z-index: 100;
+}
+
+audio {
+  display: none;
+}
+
+.inner {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 350vw * $px;
+  margin: 20vw * $px auto 0 auto;
+  background-color: #fff;
+  border-radius: 8vw * $px;
+  padding: 15vw * $px;
+  height: 94%;
+}
+
+.scrollZone {
+  height: 300px;
+  flex-grow: 1;
+  overflow: auto;
+  padding-right: 5vw * $px;
+}
+
+.title {
+  font-size: 18vw * $px;
+  line-height: 25vw * $px;
+  font-weight: 500;
+  margin: 15vw * $px 0;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 12vw * $px;
+  .name {
+    flex-grow: 1;
+    .sing {
+      font-size: 18vw * $px;
+      line-height: 25vw * $px;
+      font-weight: 700;
+      margin-bottom: 5vw * $px;
+    }
+    .band {
+      font-size: 18vw * $px;
+      line-height: 20vw * $px;
+      font-weight: 500;
+    }
+  }
+  .close {
+    flex-shrink: 0;
+    width: 35vw * $px;
+    height: 35vw * $px;
+    cursor: pointer;
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+}
+
+.pic {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  overflow: hidden;
+  border-radius: 6vw * $px;
+  padding: 8vw * $px;
+  height: 290vw * $px;
+  margin-bottom: 15vw * $px;
+  > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    &.cover {
+      z-index: 5;
+      object-fit: cover;
+    }
+    &.plate {
+      z-index: 1;
+      object-fit: contain;
+    }
+  }
+  .favBox {
+    @extend %flexCenter;
+    position: relative;
+    z-index: 20;
+    width: 30vw * $px;
+    height: 30vw * $px;
+    background-color: #fff;
+    border-radius: 7vw * $px;
+    border: none;
+    svg {
+      width: 20vw * $px;
+      height: auto;
+    }
+  }
+  .play {
+    @extend %flexCenter;
+    position: relative;
+    z-index: 20;
+    background-color: #fff;
+    border-radius: 50%;
+    border: none;
+    width: 40vw * $px;
+    height: 40vw * $px;
+    cursor: pointer;
+    img.playIcon {
+      width: 20vw * $px;
+      height: auto;
+      margin-left: 3vw * $px;
+    }
+    img.pauseIcon {
+      width: auto;
+      height: 20vw * $px;
+    }
+  }
+}
+
+.track {
+  display: flex;
+  align-items: center;
+  font-size: 16vw * $px;
+  line-height: 20vw * $px;
+  color: #738286;
+  margin-bottom: 12vw * $px;
+  &:last-child {
+    margin-bottom: 0;
+  }
+  span:last-child {
+    margin-left: auto;
+  }
+  span:nth-child(2) {
+    @extend %oneLineCut;
+    color: #000;
+    margin-left: 5vw * $px;
+    padding-right: 10vw * $px;
+  }
+}
+
+@media screen and (max-width: 435px) {
+  .inner {
+    width: 90%;
+    margin: 15vw * $pxm auto 0 auto;
+    border-radius: 10vw * $pxm;
+    padding: 10vw * $pxm;
+  }
+
+  .scrollZone {
+    height: 200px;
+    padding-right: 10vw * $pxm;
+    margin-bottom: 10vw * $pxm;
+  }
+
+  .title {
+    font-size: 18vw * $pxm;
+    line-height: 25vw * $pxm;
+    margin: 15vw * $pxm 0;
+  }
+
+  .top {
+    margin-bottom: 12vw * $pxm;
+    .name {
+      .sing {
+        font-size: 18vw * $pxm;
+        line-height: 25vw * $pxm;
+        margin-bottom: 5vw * $pxm;
+      }
+      .band {
+        font-size: 18vw * $pxm;
+        line-height: 20vw * $pxm;
+      }
+    }
+    .close {
+      width: 35vw * $pxm;
+      height: 35vw * $pxm;
+    }
+  }
+
+  .pic {
+    border-radius: 6vw * $pxm;
+    padding: 8vw * $pxm;
+    height: 290vw * $pxm;
+    margin-bottom: 15vw * $pxm;
+    .favBox {
+      width: 30vw * $pxm;
+      height: 30vw * $pxm;
+      border-radius: 7vw * $pxm;
+      svg {
+        width: 20vw * $pxm;
+      }
+    }
+    .play {
+      width: 40vw * $pxm;
+      height: 40vw * $pxm;
+      img.playIcon {
+        width: 20vw * $pxm;
+        margin-left: 3vw * $pxm;
+      }
+      img.pauseIcon {
+        width: auto;
+        height: 20vw * $pxm;
+      }
+    }
+  }
+
+  .track {
+    font-size: 16vw * $pxm;
+    line-height: 20vw * $pxm;
+    margin-bottom: 12vw * $pxm;
+    span:nth-child(2) {
+      margin-left: 5vw * $pxm;
+      padding-right: 10vw * $pxm;
+    }
+  }
+}

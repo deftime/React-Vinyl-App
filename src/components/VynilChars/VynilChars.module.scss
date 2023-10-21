@@ -1,0 +1,24 @@
+@import "../../styles/variables";
+@import "../../styles/templates";
+
+.albumData {
+  @extend %oneLineCut;
+  font-size: 18vw * $px;
+  line-height: 23vw * $px;
+  margin-bottom: 5vw * $px;
+  span:first-child {
+    color: #738286;
+  }
+}
+
+@media screen and (max-width: 435px) {
+  .albumData {
+    font-size: 14vw * $pxm;
+    line-height: 17vw * $pxm;
+    margin-bottom: 3vw * $pxm;
+    white-space: normal;
+  }
+  .country {
+    margin-bottom: 10vw * $pxm;
+  }
+}

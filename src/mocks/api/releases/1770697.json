@@ -1,0 +1,100 @@
+{
+  "id": 1770697,
+  "artist_id": 251593,
+  "artist": "Green Day",
+  "title": "Dookie",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Power Pop",
+    "Punk"
+  ],
+  "release_date": "2009-04-18",
+  "year": 2009,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/5WPpvny6cZjD_FvR-AHmLil1xqqPxNjpn-lRJ6jY2oM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzA2/OTctMTQwNTQ5NzY0/Mi03NDcxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/tR33kedauVHOQyueYBCSZjvsSyTOWuR17NJG_Dw5v3I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzA2/OTctMTQwNTQ5NzY0/Mi03NDcxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Burnout",
+      "duration": "2:07"
+    },
+    {
+      "position": "A2",
+      "title": "Having A Blast",
+      "duration": "2:45"
+    },
+    {
+      "position": "A3",
+      "title": "Chump",
+      "duration": "2:54"
+    },
+    {
+      "position": "A4",
+      "title": "Longview",
+      "duration": "3:59"
+    },
+    {
+      "position": "A5",
+      "title": "Welcome To Paradise",
+      "duration": "3:45"
+    },
+    {
+      "position": "A6",
+      "title": "Pulling Teeth",
+      "duration": "2:31"
+    },
+    {
+      "position": "A7",
+      "title": "Basket Case",
+      "duration": "3:01"
+    },
+    {
+      "position": "B1",
+      "title": "She",
+      "duration": "2:14"
+    },
+    {
+      "position": "B2",
+      "title": "Sassafras Roots",
+      "duration": "2:38"
+    },
+    {
+      "position": "B3",
+      "title": "When I Come Around",
+      "duration": "2:58"
+    },
+    {
+      "position": "B4",
+      "title": "Coming Clean",
+      "duration": "1:35"
+    },
+    {
+      "position": "B5",
+      "title": "Emenius Sleepus",
+      "duration": "1:44"
+    },
+    {
+      "position": "B6",
+      "title": "In The End",
+      "duration": "1:46"
+    },
+    {
+      "position": "B7",
+      "title": "F.O.D.",
+      "duration": "2:49"
+    },
+    {
+      "position": "B8",
+      "title": "All By Myself",
+      "duration": ""
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "extends": ["stylelint-config-standard"],
+  "rules": {
+    "selector-class-pattern": null,
+    "jsx-a11y/click-events-have-key-events": "off"
+  }
+}

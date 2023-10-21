@@ -1,0 +1,75 @@
+{
+  "id": 10901377,
+  "artist_id": 4138698,
+  "artist": "Phoebe Bridgers",
+  "title": "Stranger In The Alps",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "release_date": "2017-09-22",
+  "year": 2017,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/jXhjjWThA3G8DdNj0ZURzun6gaTFWsYIe--bn09tTXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAx/Mzc3LTE1NTMxMTcx/MzctMzk1Mi5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/y4L9ESsyA9bJvf-WhremsYBiwfGvtKqZXEuO_vk8UCU/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAx/Mzc3LTE1NTMxMTcx/MzctMzk1Mi5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Smoke Signals",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Motion Sickness",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Funeral",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Demi Moore",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Scott Street",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Killer",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Georgia",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Chelsea",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Would You Rather",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "You Missed My Heart",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Smoke Signals (Reprise)",
+      "duration": ""
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": 9888163,
+  "artist_id": 1800656,
+  "artist": "Thundercat",
+  "title": "Drunk",
+  "all_genres": [
+    5,
+    8,
+    2
+  ],
+  "genre": 5,
+  "release_date": "2017-03-10",
+  "year": 2017,
+  "all_countries": [
+    "worldwide"
+  ],
+  "country": "worldwide",
+  "thumb_image": "https://i.discogs.com/sX86HCQfj5g8X5Nu0jxgf7DY_qplZO8zLys2yGFBJIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODgx/NjMtMTQ4ODE0NTgx/My03MzEwLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/VG68Tthqi31vu6KNVpna8Ih_O8fkWjYvKw8q4S6KhpI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODgx/NjMtMTQ4ODE0NTgx/My03MzEwLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Rabbot Ho",
+      "duration": "0:38"
+    },
+    {
+      "position": "A2",
+      "title": "Captain Stupido",
+      "duration": "1:41"
+    },
+    {
+      "position": "A3",
+      "title": "Uh Uh",
+      "duration": "2:16"
+    },
+    {
+      "position": "A4",
+      "title": "Bus In These Streets",
+      "duration": "2:24"
+    },
+    {
+      "position": "B1",
+      "title": "A Fan's Mail (Tron Song Suite II)",
+      "duration": "2:38"
+    },
+    {
+      "position": "B2",
+      "title": "Lava Lamp",
+      "duration": "2:58"
+    },
+    {
+      "position": "B3",
+      "title": "Jethro",
+      "duration": "1:34"
+    },
+    {
+      "position": "C1",
+      "title": "Day & Night",
+      "duration": "0:37"
+    },
+    {
+      "position": "C2",
+      "title": "Show You The Way",
+      "duration": "3:34"
+    },
+    {
+      "position": "C3",
+      "title": "Walk On By",
+      "duration": "3:19"
+    },
+    {
+      "position": "D1",
+      "title": "Blackkk",
+      "duration": "1:59"
+    },
+    {
+      "position": "D2",
+      "title": "Tokyo",
+      "duration": "2:24"
+    },
+    {
+      "position": "D3",
+      "title": "Jameel's Space Ride",
+      "duration": "1:09"
+    },
+    {
+      "position": "E1",
+      "title": "Friend Zone",
+      "duration": "3:12"
+    },
+    {
+      "position": "E2",
+      "title": "Them Changes",
+      "duration": "3:08"
+    },
+    {
+      "position": "F1",
+      "title": "Where I'm Going",
+      "duration": "2:09"
+    },
+    {
+      "position": "F2",
+      "title": "Drink Dat",
+      "duration": "3:35"
+    },
+    {
+      "position": "G1",
+      "title": "Inferno",
+      "duration": "4:00"
+    },
+    {
+      "position": "G2",
+      "title": "I Am Crazy",
+      "duration": "0:25"
+    },
+    {
+      "position": "G3",
+      "title": "3AM",
+      "duration": "1:15"
+    },
+    {
+      "position": "H1",
+      "title": "Drunk",
+      "duration": "1:42"
+    },
+    {
+      "position": "H2",
+      "title": "The Turn Down",
+      "duration": "2:29"
+    },
+    {
+      "position": "H3",
+      "title": "DUI",
+      "duration": "2:18"
+    }
+  ]
+}

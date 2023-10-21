@@ -1,0 +1,138 @@
+@import "../../styles/variables";
+@import "../../styles/templates";
+
+.filters {
+  flex-shrink: 0;
+  width: 390vw * $px;
+  padding: 20vw * $px;
+  fieldset {
+    display: flex;
+    gap: 12vw * $px;
+    border: none;
+    margin-bottom: 12vw * $px;
+    width: 100%;
+    .selectric-wrapper {
+      flex: 1 0 45%;
+    }
+    select {
+      flex: 1 1 45%;
+      width: auto;
+    }
+  }
+  select {
+    font-family: "Jakarta", sans-serif;
+    border: none;
+    border-radius: 0;
+    padding: 10vw * $px 15vw * $px;
+    width: 100%;
+  }
+  input {
+    display: block;
+    border: 1px solid #edeef0;
+    border-radius: 4vw * $px;
+    background-color: #fff;
+    height: 40vw * $px;
+    width: 100%;
+    padding: 10vw * $px 14vw * $px;
+    font-size: 16vw * $px;
+    line-height: 20vw * $px;
+    color: #000;
+    margin-bottom: 12vw * $px;
+    &::placeholder {
+      font-family: "Jakarta", sans-serif;
+      color: #6c7072;
+      opacity: 1;
+    }
+    &:focus {
+      outline: none;
+      border-color: #083644;
+      border-width: 1px;
+    }
+    &.onError {
+      border-color: red;
+    }
+  }
+  button {
+    font-family: "Jakarta", sans-serif;
+    font-size: 16vw * $px;
+    line-height: 20vw * $px;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    padding: 10vw * $px 25vw * $px 13vw * $px 25vw * $px;
+    margin-top: 10vw * $px;
+    border: 2px solid #083644;
+    border-radius: 4vw * $px;
+    background-color: #083644;
+    cursor: pointer;
+    &:hover:not([disabled]) {
+      background-color: #fff;
+      color: #083644;
+    }
+    &[disabled] {
+      background-color: gray;
+      border-color: gray;
+      cursor: not-allowed;
+    }
+    & + .errorMsg {
+      margin-top: 0;
+    }
+  }
+  .errorMsg {
+    display: none;
+    font-size: 12vw * $px;
+    line-height: 15vw * $px;
+    color: red;
+    padding: 5vw * $px 0;
+    margin-top: -12vw * $px;
+    &.onError {
+      display: block;
+    }
+  }
+  .selectedFilters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5vw * $px;
+    margin-top: 10vw * $px;
+  }
+}
+
+@media screen and (max-width: 435px) {
+  .filters {
+    width: auto;
+    padding: 0;
+    border: none;
+    fieldset {
+      gap: 12vw * $pxm;
+      margin-bottom: 12vw * $pxm;
+    }
+    select {
+      padding: 10vw * $pxm 15vw * $pxm;
+    }
+    input {
+      border-radius: 4vw * $pxm;
+      height: 40vw * $pxm;
+      padding: 11vw * $pxm 14vw * $pxm;
+      font-size: 16vw * $pxm;
+      line-height: 20vw * $pxm;
+      margin-bottom: 12vw * $pxm;
+    }
+    button {
+      font-size: 16vw * $pxm;
+      line-height: 20vw * $pxm;
+      padding: 11vw * $pxm 25vw * $pxm 13vw * $pxm 25vw * $pxm;
+      margin-top: 10vw * $pxm;
+      border-radius: 4vw * $pxm;
+    }
+    .errorMsg {
+      font-size: 12vw * $pxm;
+      line-height: 15vw * $pxm;
+      padding: 5vw * $pxm 0;
+      margin-top: -12vw * $pxm;
+    }
+    .selectedFilters {
+      gap: 5vw * $pxm;
+      margin-top: 10vw * $pxm;
+    }
+  }
+}

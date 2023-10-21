@@ -1,0 +1,64 @@
+{
+  "id": 6224514,
+  "artist_id": 34278,
+  "artist": "Led Zeppelin",
+  "title": "Untitled",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock",
+    "Blues Rock"
+  ],
+  "release_date": "2014-10-24",
+  "year": 2014,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/uqA1Q_EVYw2G2cCLPZ9yOf9peoK1E8u_n1bYKf3vCuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ1/MTQtMTUwMDYyNzgz/My0xMTU0LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/ff6f9pAT0kk8qNEo0e_RuLKXWM6vA37B1Fm45pgWCuk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ1/MTQtMTUwMDYyNzgz/My0xMTU0LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Black Dog",
+      "duration": "4:55"
+    },
+    {
+      "position": "A2",
+      "title": "Rock And Roll",
+      "duration": "3:40"
+    },
+    {
+      "position": "A3",
+      "title": "The Battle Of Evermore",
+      "duration": "5:51"
+    },
+    {
+      "position": "A4",
+      "title": "Stairway To Heaven",
+      "duration": "8:02"
+    },
+    {
+      "position": "B1",
+      "title": "Misty Mountain Hop",
+      "duration": "4:38"
+    },
+    {
+      "position": "B2",
+      "title": "Four Sticks",
+      "duration": "4:45"
+    },
+    {
+      "position": "B3",
+      "title": "Going To California",
+      "duration": "3:32"
+    },
+    {
+      "position": "B4",
+      "title": "When The Levee Breaks",
+      "duration": "7:08"
+    }
+  ]
+}

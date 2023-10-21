@@ -1,0 +1,73 @@
+{
+  "id": 471170,
+  "artist_id": 145074,
+  "artist": "Wings (2)",
+  "title": "Band On The Run",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1973",
+  "year": 1973,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/zeb5uJ8XYiPm66GT_NJYfha9YV7jOWibQZoO4-_dcoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTE3/MC0xNDA2NTEyNTc3/LTcxMTQuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/dFMi4btwwTeuKpkK0-yOdymOKAHwqxP5II2n1hUbdqY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTE3/MC0xNDA2NTEyNTc3/LTcxMTQuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Band On The Run",
+      "duration": "5:09"
+    },
+    {
+      "position": "A2",
+      "title": "Jet",
+      "duration": "4:08"
+    },
+    {
+      "position": "A3",
+      "title": "Bluebird",
+      "duration": "3:22"
+    },
+    {
+      "position": "A4",
+      "title": "Mrs. Vandebilt",
+      "duration": "4:40"
+    },
+    {
+      "position": "A5",
+      "title": "Let Me Roll It",
+      "duration": "4:51"
+    },
+    {
+      "position": "B1",
+      "title": "Mamunia",
+      "duration": "4:51"
+    },
+    {
+      "position": "B2",
+      "title": "No Words",
+      "duration": "2:36"
+    },
+    {
+      "position": "B3",
+      "title": "Helen Wheels",
+      "duration": "3:45"
+    },
+    {
+      "position": "B4",
+      "title": "Picasso's Last Words (Drink To Me)",
+      "duration": "5:48"
+    },
+    {
+      "position": "B5",
+      "title": "Nineteen Hundred And Eighty Five",
+      "duration": "5:30"
+    }
+  ]
+}

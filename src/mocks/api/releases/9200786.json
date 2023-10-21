@@ -1,0 +1,85 @@
+{
+  "id": 9200786,
+  "artist_id": 10783,
+  "artist": "Beastie Boys",
+  "title": "Licensed To Ill",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "release_date": "2016",
+  "year": 2016,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/0tPgabxOfN-hCYVV0NIC1pqIuOL73ubUpHsd5xBDbPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDA3/ODYtMTQ3NjU1MDMy/OS05MjQ2LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/VQBJDMFUTaCBqS7ObBQIty7ZFgdv5p8rUvUw5bWTW0U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDA3/ODYtMTQ3NjU1MDMy/OS05MjQ2LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Rhymin & Stealin",
+      "duration": "4:08"
+    },
+    {
+      "position": "A2",
+      "title": "The New Style",
+      "duration": "4:35"
+    },
+    {
+      "position": "A3",
+      "title": "She’s Crafty",
+      "duration": "3:36"
+    },
+    {
+      "position": "A4",
+      "title": "Posse In Effect",
+      "duration": "2:27"
+    },
+    {
+      "position": "A5",
+      "title": "Slow Ride",
+      "duration": "2:56"
+    },
+    {
+      "position": "A6",
+      "title": "Girls",
+      "duration": "2:14"
+    },
+    {
+      "position": "A7",
+      "title": "Fight For Your Right",
+      "duration": "3:28"
+    },
+    {
+      "position": "B1",
+      "title": "No Sleep Till Brooklyn",
+      "duration": "4:07"
+    },
+    {
+      "position": "B2",
+      "title": "Paul Revere",
+      "duration": "3:42"
+    },
+    {
+      "position": "B3",
+      "title": "Hold It Now, Hit It",
+      "duration": "3:29"
+    },
+    {
+      "position": "B4",
+      "title": "Brass Monkey",
+      "duration": "2:38"
+    },
+    {
+      "position": "B5",
+      "title": "Slow And Low",
+      "duration": "3:37"
+    },
+    {
+      "position": "B6",
+      "title": "Time To Get Ill",
+      "duration": "3:37"
+    }
+  ]
+}

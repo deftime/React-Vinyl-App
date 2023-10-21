@@ -1,0 +1,140 @@
+{
+  "id": 17251129,
+  "artist_id": 157763,
+  "artist": "Madvillain",
+  "title": "Madvillainy",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "release_date": "2021-02-00",
+  "year": 2021,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/I5v2bkzMdqGKC_NcgNnuPDT-wRGyN2DRPQ0zmGdSF10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjUx/MTI5LTE2NjUyNjk1/ODktNTkzMi5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/PsFsVHAf4UF5fnZg4sZ9Az8fCTZocPl9fzdMHdr-i40/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjUx/MTI5LTE2NjUyNjk1/ODktNTkzMi5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The Illest Villains",
+      "duration": "1:55"
+    },
+    {
+      "position": "A2",
+      "title": "Accordion",
+      "duration": "1:58"
+    },
+    {
+      "position": "A3",
+      "title": "Meat Grinder",
+      "duration": "2:11"
+    },
+    {
+      "position": "A4",
+      "title": "Bistro",
+      "duration": "1:08"
+    },
+    {
+      "position": "A5",
+      "title": "Raid",
+      "duration": "2:35"
+    },
+    {
+      "position": "B1",
+      "title": "America's Most Blunted",
+      "duration": "3:54"
+    },
+    {
+      "position": "B2",
+      "title": "Sickfit (Inst.)",
+      "duration": "1:21"
+    },
+    {
+      "position": "B3",
+      "title": "Rainbows",
+      "duration": "2:51"
+    },
+    {
+      "position": "B4",
+      "title": "Curls",
+      "duration": "1:33"
+    },
+    {
+      "position": "B5",
+      "title": "Do Not Fire! (Inst.)",
+      "duration": "0:52"
+    },
+    {
+      "position": "B6",
+      "title": "Money Folder",
+      "duration": "2:41"
+    },
+    {
+      "position": "C1",
+      "title": "Scene Two (Voice Skit)",
+      "duration": "0:20"
+    },
+    {
+      "position": "C2",
+      "title": "Shadows Of Tomorrow",
+      "duration": "2:36"
+    },
+    {
+      "position": "C3",
+      "title": "Operation Lifesaver AKA Mint Test",
+      "duration": "1:30"
+    },
+    {
+      "position": "C4",
+      "title": "Figaro",
+      "duration": "2:25"
+    },
+    {
+      "position": "C5",
+      "title": "Hardcore Hustle",
+      "duration": "1:21"
+    },
+    {
+      "position": "C6",
+      "title": "Strange Ways",
+      "duration": "1:23"
+    },
+    {
+      "position": "D1",
+      "title": "(Intro)",
+      "duration": "0:29"
+    },
+    {
+      "position": "D2",
+      "title": "Fancy Clown",
+      "duration": "1:55"
+    },
+    {
+      "position": "D3",
+      "title": "Eye",
+      "duration": "1:57"
+    },
+    {
+      "position": "D4",
+      "title": "Supervillain Theme (Inst.)",
+      "duration": "0:52"
+    },
+    {
+      "position": "D5",
+      "title": "All Caps",
+      "duration": "2:10"
+    },
+    {
+      "position": "D6",
+      "title": "Great Day",
+      "duration": "2:16"
+    },
+    {
+      "position": "D7",
+      "title": "Rhinestone Cowboy",
+      "duration": "4:00"
+    }
+  ]
+}

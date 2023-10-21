@@ -1,0 +1,109 @@
+{
+  "id": 9371072,
+  "artist_id": 81013,
+  "artist": "Queen",
+  "title": "Greatest Hits",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Arena Rock",
+    "Hard Rock"
+  ],
+  "release_date": "2016-11-17",
+  "year": 2016,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/-W6JB2znj26bsi1iuQMgUNiRZ59yw2enmj1hiU-WWwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzEw/NzItMTQ4MzE4MTU2/My05MjgwLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/k7Q4X_bVGADYJW5-ib7-Hoyl-xNxeog22e0Ufnur9zc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzEw/NzItMTQ4MzE4MTU2/My05MjgwLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Bohemian Rhapsody",
+      "duration": "5:54"
+    },
+    {
+      "position": "A2",
+      "title": "Another One Bites The Dust",
+      "duration": "3:36"
+    },
+    {
+      "position": "A3",
+      "title": "Killer Queen",
+      "duration": "2:59"
+    },
+    {
+      "position": "A4",
+      "title": "Fat Bottomed Girls",
+      "duration": "3:21"
+    },
+    {
+      "position": "B1",
+      "title": "Bicycle Race",
+      "duration": "3:02"
+    },
+    {
+      "position": "B2",
+      "title": "You're My Best Friend",
+      "duration": "2:51"
+    },
+    {
+      "position": "B3",
+      "title": "Don't Stop Me Now",
+      "duration": "3:29"
+    },
+    {
+      "position": "B4",
+      "title": "Save Me",
+      "duration": "3:48"
+    },
+    {
+      "position": "C1",
+      "title": "Crazy Little Thing Called Love",
+      "duration": "2:43"
+    },
+    {
+      "position": "C2",
+      "title": "Somebody To Love",
+      "duration": "4:55"
+    },
+    {
+      "position": "C3",
+      "title": "Now I'm Here",
+      "duration": "4:13"
+    },
+    {
+      "position": "C4",
+      "title": "Good Old-Fashioned Lover Boy",
+      "duration": "2:54"
+    },
+    {
+      "position": "D1",
+      "title": "Play The Game",
+      "duration": "3:31"
+    },
+    {
+      "position": "D2",
+      "title": "Flash",
+      "duration": "2:47"
+    },
+    {
+      "position": "D3",
+      "title": "Seven Seas Of Rhye",
+      "duration": "2:48"
+    },
+    {
+      "position": "D4",
+      "title": "We Will Rock You",
+      "duration": "2:01"
+    },
+    {
+      "position": "D5",
+      "title": "We Are The Champions",
+      "duration": "2:59"
+    }
+  ]
+}

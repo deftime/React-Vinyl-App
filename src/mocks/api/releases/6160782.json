@@ -1,0 +1,150 @@
+{
+  "id": 6160782,
+  "artist_id": 3853178,
+  "artist": "Hozier",
+  "title": "Hozier",
+  "all_genres": [
+    7
+  ],
+  "genre": 7,
+  "release_date": "2014-10-07",
+  "year": 2014,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/ly3P2KS5rRSsLZSAN89msqYP9aXhJ-KXPyP9P57ANWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjA3/ODItMTQ3MTMwNjIz/NC0yNjUzLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/yxSdMOwg1AABckCNo0wclMWDiSr5q8XDS0X6EnDqqaI/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjA3/ODItMTQ3MTMwNjIz/NC0yNjUzLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Take Me To Church",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Angel Of Small Death & The Codeine Scene",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Jackie And Wilson",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Someone New",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "To Be Alone",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "From Eden",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "In A Week",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Sedated",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Work Song",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Like Real People Do",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "It Will Come Back",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Foreigner's God",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Cherry Wine (Live)",
+      "duration": ""
+    },
+    {
+      "position": "CD1",
+      "title": "Take Me To Church",
+      "duration": "4:02"
+    },
+    {
+      "position": "CD2",
+      "title": "Angel Of Small Death & The Codeine Scene",
+      "duration": "3:39"
+    },
+    {
+      "position": "CD3",
+      "title": "Jackie And Wilson",
+      "duration": "3:43"
+    },
+    {
+      "position": "CD4",
+      "title": "Someone New",
+      "duration": "3:43"
+    },
+    {
+      "position": "CD5",
+      "title": "To Be Alone",
+      "duration": "5:24"
+    },
+    {
+      "position": "CD6",
+      "title": "From Eden",
+      "duration": "4:43"
+    },
+    {
+      "position": "CD7",
+      "title": "In A Week",
+      "duration": "5:18"
+    },
+    {
+      "position": "CD8",
+      "title": "Sedated",
+      "duration": "3:28"
+    },
+    {
+      "position": "CD9",
+      "title": "Work Song",
+      "duration": "3:50"
+    },
+    {
+      "position": "CD10",
+      "title": "Like Real People Do",
+      "duration": "3:18"
+    },
+    {
+      "position": "CD11",
+      "title": "It Will Come Back",
+      "duration": "4:38"
+    },
+    {
+      "position": "CD12",
+      "title": "Foreigner's God",
+      "duration": "3:45"
+    },
+    {
+      "position": "CD13",
+      "title": "Cherry Wine (Live)",
+      "duration": "4:00"
+    }
+  ]
+}

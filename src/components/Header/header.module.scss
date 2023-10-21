@@ -1,0 +1,106 @@
+@import "../../styles/variables";
+@import "../../styles/templates";
+
+header {
+  flex-shrink: 0;
+  display: flex;
+  padding: 20vw * $px;
+  background-color: #083644;
+  .btnBack {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    border: none;
+    background: none;
+    cursor: pointer;
+    img {
+      display: block;
+      width: 8vw * $px;
+      height: auto;
+      margin: 0 15vw * $px 0 10vw * $px;
+    }
+  }
+  .navItem {
+    font-family: "Poppins", sans-serif;
+    font-size: 18vw * $px;
+    line-height: 27vw * $px;
+    color: #fff;
+    text-decoration: none;
+  }
+  .nav {
+    display: flex;
+    gap: 30vw * $px;
+    margin-left: 50vw * $px;
+  }
+  .rightSide {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+  }
+  .btnMenu {
+    position: relative;
+    flex-shrink: 0;
+    width: 24vw * $px;
+    height: 24vw * $px;
+    margin-left: 18vw * $px;
+    padding: 0 2vw * $px;
+    cursor: pointer;
+    svg {
+      width: 100%;
+      height: auto;
+    }
+    .count {
+      @extend %flexCenter;
+      position: absolute;
+      top: -6vw * $px;
+      right: -7vw * $px;
+      font-size: 10vw * $px;
+      line-height: 10vw * $px;
+      width: 15vw * $px;
+      height: 15vw * $px;
+      border-radius: 50%;
+      background-color: #fff;
+      color: #083644;
+    }
+    &:hover {
+      svg path {
+        fill: #fff;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 435px) {
+  header {
+    padding: 20vw * $pxm;
+    .btnBack {
+      img {
+        width: 8vw * $pxm;
+        margin: 0 15vw * $pxm 0 10vw * $pxm;
+      }
+    }
+    .nav {
+      flex-grow: 1;
+      justify-content: center;
+      gap: 10vw * $pxm;
+    }
+    .navItem {
+      font-size: 15vw * $pxm;
+      line-height: 27vw * $pxm;
+    }
+    .btnMenu {
+      width: 24vw * $pxm;
+      height: 24vw * $pxm;
+      margin-left: 18vw * $pxm;
+      padding: 0 2vw * $pxm;
+      .count {
+        top: -6vw * $pxm;
+        right: -7vw * $pxm;
+        font-size: 10vw * $pxm;
+        line-height: 10vw * $pxm;
+        width: 15vw * $pxm;
+        height: 15vw * $pxm;
+      }
+    }
+  }
+}

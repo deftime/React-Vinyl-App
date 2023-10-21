@@ -1,0 +1,73 @@
+{
+  "id": 367104,
+  "artist_id": 45467,
+  "artist": "Pink Floyd",
+  "title": "The Dark Side Of The Moon",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Prog Rock"
+  ],
+  "release_date": "1973-03-01",
+  "year": 1973,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/qJqmtahwwCq6Re_vq-O0SIrGZVjWLrqg_1FbP9ANLWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzEw/NC0xNDcyNTcyOTMx/LTUxMDQuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/mMxJHZMv_EUMgDso6PMI1HKsHHntkdG2ULQ2KW-1vHc/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzEw/NC0xNDcyNTcyOTMx/LTUxMDQuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Speak To Me",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Breathe",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "On The Run",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Time",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "The Great Gig In The Sky",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Money",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Us And Them",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Any Colour You Like",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Brain Damage",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Eclipse",
+      "duration": ""
+    }
+  ]
+}

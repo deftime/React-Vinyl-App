@@ -1,0 +1,55 @@
+@import "../../styles/variables";
+@import "../../styles/templates";
+
+.top {
+  font-size: 20vw * $px;
+  line-height: 25vw * $px;
+  font-weight: 500;
+  padding: 20vw * $px;
+  a {
+    font-weight: 700;
+    color: #ac0b0b;
+    padding: 0 20vw * $px;
+    text-decoration: none;
+  }
+  .chips {
+    display: flex;
+    align-items: center;
+    gap: 10vw * $px;
+    margin-top: 15vw * $px;
+  }
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20vw * $px;
+  padding: 0 20vw * $px 50vw * $px 20vw * $px;
+}
+
+@media screen and (max-width: 435px) {
+  .top {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-size: 20vw * $pxm;
+    line-height: 25vw * $pxm;
+    padding: 15vw * $pxm;
+    a {
+      padding: 0;
+      margin-left: auto;
+    }
+    .chips {
+      width: 100%;
+      margin-top: 10vw * $pxm;
+      gap: 10vw * $pxm;
+    }
+  }
+
+  .list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10vw * $pxm;
+    padding: 0 15vw * $pxm 30vw * $pxm 15vw * $pxm;
+  }
+}

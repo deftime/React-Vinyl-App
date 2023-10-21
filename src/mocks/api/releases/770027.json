@@ -1,0 +1,71 @@
+{
+  "id": 770027,
+  "artist_id": 103687,
+  "artist": "Dire Straits",
+  "title": "Brothers In Arms",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Classic Rock",
+    "AOR",
+    "Rock & Roll",
+    "Pop Rock"
+  ],
+  "release_date": "1985-05-00",
+  "year": 1985,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/fVEmeKG-dxz4n7dSc4wFXKgxvDfxTkhFxXXBTFUnz6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDAy/Ny0xMjM0MDU5OTQx/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/QvVcwh4aKviMeAKwBBanlzHtr76YJb-pG-hMJhUU8mM/rs:fit/g:sm/q:90/h:602/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDAy/Ny0xMjM0MDU5OTQx/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "So Far Away",
+      "duration": "3:59"
+    },
+    {
+      "position": "A2",
+      "title": "Money For Nothing",
+      "duration": "7:04"
+    },
+    {
+      "position": "A3",
+      "title": "Walk Of Life",
+      "duration": "4:07"
+    },
+    {
+      "position": "A4",
+      "title": "Your Latest Trick",
+      "duration": "4:46"
+    },
+    {
+      "position": "A5",
+      "title": "Why Worry",
+      "duration": "5:22"
+    },
+    {
+      "position": "B1",
+      "title": "Ride Across The River",
+      "duration": "6:57"
+    },
+    {
+      "position": "B2",
+      "title": "The Man's Too Strong",
+      "duration": "4:36"
+    },
+    {
+      "position": "B3",
+      "title": "One World",
+      "duration": "3:36"
+    },
+    {
+      "position": "B4",
+      "title": "Brothers In Arms",
+      "duration": "6:56"
+    }
+  ]
+}

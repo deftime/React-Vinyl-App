@@ -1,0 +1,23 @@
+@import "../../styles/variables";
+@import "../../styles/templates";
+
+footer {
+  flex-shrink: 0;
+  font-family: "Poppins", sans-serif;
+  padding: 20vw * $px;
+  background-color: #083644;
+  height: 65vw * $px;
+  font-size: 15vw * $px;
+  line-height: 20vw * $px;
+  color: #fff;
+  margin-top: auto;
+}
+
+@media screen and (max-width: 435px) {
+  footer {
+    padding: 20vw * $pxm;
+    height: 65vw * $pxm;
+    font-size: 15vw * $pxm;
+    line-height: 20vw * $pxm;
+  }
+}

@@ -1,0 +1,34 @@
+@import "../../styles/variables";
+@import "../../styles/templates";
+
+.title {
+  font-size: 30vw * $px;
+  line-height: 35vw * $px;
+  font-weight: 700;
+  padding: 20vw * $px 0;
+  margin: 0 20vw * $px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20vw * $px;
+  padding: 20vw * $px;
+}
+
+@media screen and (max-width: 435px) {
+  .title {
+    font-size: 25vw * $pxm;
+    line-height: 30vw * $pxm;
+    padding: 15vw * $pxm 0;
+    margin: 0 15vw * $pxm;
+  }
+
+  .list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15vw * $pxm;
+    padding: 15vw * $pxm;
+  }
+}

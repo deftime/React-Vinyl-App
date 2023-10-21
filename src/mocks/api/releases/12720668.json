@@ -1,0 +1,56 @@
+{
+  "id": 12720668,
+  "artist_id": 6527227,
+  "artist": "Kids See Ghosts",
+  "title": "Kids See Ghosts",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "release_date": "2018",
+  "year": 2018,
+  "all_countries": [
+    "usa",
+    "canada"
+  ],
+  "country": "usa",
+  "thumb_image": "https://i.discogs.com/SHiI1lweCSa27wYRPhBMjdj4nxUlJAMRwSw-f_59TpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIw/NjY4LTE2ODU4MDcy/NTUtODQyMy5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/D7DXMvmNMJabWSD-w-rTxUTCd07pLDkfJ5LCLHwtS5A/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIw/NjY4LTE2ODU4MDcy/NTUtODQyMy5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Feel The Love",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Fire",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "4th Dimension",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Freeee (Ghost Town Pt. 2)",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Reborn",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Kids See Ghosts",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Cudi Montage",
+      "duration": ""
+    }
+  ]
+}

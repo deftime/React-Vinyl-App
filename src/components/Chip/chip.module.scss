@@ -1,0 +1,33 @@
+@import "../../styles/variables";
+@import "../../styles/templates";
+
+.chip {
+  display: flex;
+  align-items: center;
+  padding: 2vw * $px 5vw * $px 2vw * $px 10vw * $px;
+  border-radius: 20vw * $px;
+  background-color: #e9e9ed;
+  cursor: pointer;
+  span {
+    font-size: 12vw * $px;
+    line-height: 12vw * $px;
+    font-weight: 700;
+  }
+  img {
+    width: 20vw * $px;
+  }
+}
+
+@media screen and (max-width: 435px) {
+  .chip {
+    padding: 2vw * $pxm 5vw * $pxm 2vw * $pxm 10vw * $pxm;
+    border-radius: 20vw * $pxm;
+    span {
+      font-size: 12vw * $pxm;
+      line-height: 12vw * $pxm;
+    }
+    img {
+      width: 20vw * $pxm;
+    }
+  }
+}

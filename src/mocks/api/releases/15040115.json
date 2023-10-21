@@ -1,0 +1,91 @@
+{
+  "id": 15040115,
+  "artist_id": 2165577,
+  "artist": "Mac Miller",
+  "title": "Circles",
+  "all_genres": [
+    5,
+    2
+  ],
+  "genre": 5,
+  "release_date": "2020-05-29",
+  "year": 2020,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/rr69rH4CydHj25Q_dNL50jGLOB8QcojfHRoB1zFXhGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQw/MTE1LTE1ODU4NzIx/NDgtNTkzMi5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/0XxFiKcwiJaZEbvWsEBjDOrJQivJztO8IZz8TwUC1xA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQw/MTE1LTE1ODU4NzIx/NDgtNTkzMi5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Circles",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Complicated",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Blue World",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Good News",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "I Can See",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Everybody",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "title": "Woods",
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "title": "Hand Me Downs",
+      "duration": ""
+    },
+    {
+      "position": "C9",
+      "title": "That's On Me",
+      "duration": ""
+    },
+    {
+      "position": "C10",
+      "title": "Hands",
+      "duration": ""
+    },
+    {
+      "position": "C11",
+      "title": "Surf",
+      "duration": ""
+    },
+    {
+      "position": "C12",
+      "title": "Once A Day",
+      "duration": ""
+    },
+    {
+      "position": "D13",
+      "title": "Right",
+      "duration": ""
+    },
+    {
+      "position": "D14",
+      "title": "Floating",
+      "duration": ""
+    }
+  ]
+}

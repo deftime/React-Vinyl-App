@@ -1,0 +1,58 @@
+@import "../../styles/variables";
+@import "../../styles/templates";
+
+.addBtn {
+  @extend %flexCenter;
+  font-family: "Jakarta", sans-serif;
+  border: 2px solid $brandColor;
+  border-radius: 7vw * $px;
+  background-color: $brandColor;
+  color: #fff;
+  font-size: 20vw * $px;
+  line-height: 25vw * $px;
+  font-weight: 500;
+  padding: 12vw * $px 20vw * $px;
+  margin-top: 15vw * $px;
+  width: 100%;
+  height: 50vw * $px;
+  cursor: pointer;
+  svg {
+    width: 20vw * $px;
+    height: auto;
+    margin-left: 10vw * $px;
+  }
+  &:hover {
+    background-color: #fff;
+    color: $brandColor;
+    svg path {
+      stroke: $brandColor;
+    }
+  }
+  &.added {
+    font-size: 16vw * $px;
+    line-height: 20vw * $px;
+    background-color: #fff;
+    border-color: #106081;
+    color: #106081;
+  }
+}
+
+@media screen and (max-width: 435px) {
+  .addBtn {
+    border-radius: 4vw * $pxm;
+    font-size: 16vw * $pxm;
+    line-height: 20vw * $pxm;
+    padding: 5vw * $pxm;
+    margin-top: auto;
+    height: 50vw * $pxm;
+    svg {
+      width: auto;
+      height: 20vw * $pxm;
+      margin-left: 10vw * $pxm;
+    }
+    &.added {
+      font-size: 16vw * $pxm;
+      line-height: 20vw * $pxm;
+    }
+  }
+}

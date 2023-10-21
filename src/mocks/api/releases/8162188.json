@@ -1,0 +1,82 @@
+{
+  "id": 8162188,
+  "artist_id": 10263,
+  "artist": "David Bowie",
+  "title": "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Glam",
+    "Classic Rock",
+    "Art Rock"
+  ],
+  "release_date": "2016-02-26",
+  "year": 2016,
+  "all_countries": [
+    "uk",
+    "europe",
+    "us"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/SRZzWOkteYGOdryma_F7KWbtTif_cQQdDWG3nGdbjqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjIx/ODgtMTQ1NjY3NjQy/MC0xNjU4LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/9JCin7Zj5m1DG4de-SnowglKx_nDZm1jUEU78Jqrh7s/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjIx/ODgtMTQ1NjY3NjQy/MC0xNjU4LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Five Years",
+      "duration": "4:42"
+    },
+    {
+      "position": "A2",
+      "title": "Soul Love",
+      "duration": "3:34"
+    },
+    {
+      "position": "A3",
+      "title": "Moonage Daydream",
+      "duration": "4:40"
+    },
+    {
+      "position": "A4",
+      "title": "Starman",
+      "duration": "4:10"
+    },
+    {
+      "position": "A5",
+      "title": "It Ain't Easy",
+      "duration": "2:58"
+    },
+    {
+      "position": "B1",
+      "title": "Lady Stardust",
+      "duration": "3:22"
+    },
+    {
+      "position": "B2",
+      "title": "Star",
+      "duration": "2:47"
+    },
+    {
+      "position": "B3",
+      "title": "Hang On To Yourself",
+      "duration": "2:40"
+    },
+    {
+      "position": "B4",
+      "title": "Ziggy Stardust",
+      "duration": "3:13"
+    },
+    {
+      "position": "B5",
+      "title": "Suffragette City",
+      "duration": "3:25"
+    },
+    {
+      "position": "B6",
+      "title": "Rock 'N' Roll Suicide",
+      "duration": "2:58"
+    }
+  ]
+}

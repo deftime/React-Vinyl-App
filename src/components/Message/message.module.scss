@@ -1,0 +1,26 @@
+@import "../../styles/variables";
+@import "../../styles/templates";
+
+.message {
+  position: fixed;
+  font-size: 15vw * $px;
+  line-height: 20vw * $px;
+  text-align: center;
+  background-color: #fff;
+  padding: 5vw * $px 10vw * $px;
+  border-radius: 5vw * $px;
+  width: fit-content;
+  box-shadow: 0 0 10px gray;
+}
+
+@media screen and (max-width: 435px) {
+  .message {
+    position: fixed;
+    font-size: 12vw * $pxm;
+    line-height: 15vw * $pxm;
+    padding: 5vw * $pxm 10vw * $pxm;
+    border-radius: 5vw * $pxm;
+    width: fit-content;
+    box-shadow: 0 0 10px gray;
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": 14525240,
+  "artist_id": 2508414,
+  "artist": "Harry Styles",
+  "title": "Fine Line",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Indie Pop",
+    "Pop Rock",
+    "Soul",
+    "Soft Rock",
+    "Britpop"
+  ],
+  "release_date": "2019-12-13",
+  "year": 2019,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/NdUDPSpKPueAwdEDCS0tV7N2pboF9XhnbDldn6p85tk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTI1/MjQwLTE1OTA1NTYy/NDMtNjYwNS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/oam3ZDYQQFl5zHfcKoCp1mqi13ebyilEgaxTCHlX3cs/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTI1/MjQwLTE1OTA1NTYy/NDMtNjYwNS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Golden",
+      "duration": "3:28"
+    },
+    {
+      "position": "A2",
+      "title": "Watermelon Sugar",
+      "duration": "2:53"
+    },
+    {
+      "position": "A3",
+      "title": "Adore You",
+      "duration": "3:27"
+    },
+    {
+      "position": "A4",
+      "title": "Lights Up",
+      "duration": "2:52"
+    },
+    {
+      "position": "B1",
+      "title": "Cherry",
+      "duration": "4:19"
+    },
+    {
+      "position": "B2",
+      "title": "Falling ",
+      "duration": "4:00"
+    },
+    {
+      "position": "B3",
+      "title": "To Be So Lonely",
+      "duration": "3:12"
+    },
+    {
+      "position": "B4",
+      "title": "She",
+      "duration": "6:02"
+    },
+    {
+      "position": "C1",
+      "title": "Sunflower, Vol. 6",
+      "duration": "3:41"
+    },
+    {
+      "position": "C2",
+      "title": "Canyon Moon",
+      "duration": "3:09"
+    },
+    {
+      "position": "C3",
+      "title": "Treat People With Kindness",
+      "duration": "3:17"
+    },
+    {
+      "position": "D1",
+      "title": "Fine Line",
+      "duration": "6:17"
+    }
+  ]
+}

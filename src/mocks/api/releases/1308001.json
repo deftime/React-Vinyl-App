@@ -1,0 +1,68 @@
+{
+  "id": 1308001,
+  "artist_id": 103687,
+  "artist": "Dire Straits",
+  "title": "Dire Straits",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Classic Rock"
+  ],
+  "release_date": "1978-06-02",
+  "year": 1978,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/F55xfOxMvdgh8yEISdqxZZMkZM5WVFEmA19mMuCNh9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDgw/MDEtMTY1NzQ0MTIy/Ny00NjI4LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/yTL8L_2eUPqArDt_Y6rAOaIdDfI8knGmVjgU8I4mvx0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDgw/MDEtMTY1NzQ0MTIy/Ny00NjI4LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Down To The Waterline",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Water Of Love",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Setting Me Up",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Six Blade Knife",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Southbound Again",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Sultans Of Swing",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "In The Gallery",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Wild West End",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Lions",
+      "duration": ""
+    }
+  ]
+}

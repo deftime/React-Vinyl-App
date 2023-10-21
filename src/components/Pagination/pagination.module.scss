@@ -1,0 +1,50 @@
+@import "../../styles/variables";
+@import "../../styles/templates";
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2vw * $px;
+  padding: 20vw * $px 0;
+  margin: 0 auto;
+  width: 900vw * $px;
+  div,
+  a {
+    @extend %flexCenter;
+    font-family: "Poppins", sans-serif;
+    width: 40vw * $px;
+    height: 40vw * $px;
+    border-radius: 8vw * $px;
+    font-size: 14vw * $px;
+    line-height: 20vw * $px;
+  }
+  div {
+    background-color: $brandColor;
+    color: #fff;
+  }
+  a {
+    background-color: #fff;
+    color: #738286;
+    text-decoration: none;
+    &:hover {
+      color: $brandColor;
+      text-decoration: underline;
+    }
+  }
+}
+
+@media screen and (max-width: 435px) {
+  .pagination {
+    padding: 20vw * $pxm 0;
+    width: auto;
+    div,
+    a {
+      width: 40vw * $pxm;
+      height: 40vw * $pxm;
+      border-radius: 8vw * $pxm;
+      font-size: 14vw * $pxm;
+      line-height: 20vw * $pxm;
+    }
+  }
+}

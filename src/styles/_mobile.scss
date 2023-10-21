@@ -1,0 +1,198 @@
+@media screen and (max-width: 435px) {
+  .selectric-wrapper {
+    .selectric {
+      border-radius: 4vw * $pxm;
+      .label {
+        font-size: 16vw * $pxm;
+        line-height: 16vw * $pxm;
+        padding: 11vw * $pxm 0;
+        margin: 0 35vw * $pxm 0 14vw * $pxm;
+      }
+      .button {
+        width: 42vw * $pxm;
+        height: 42vw * $pxm;
+        &:after {
+          width: 15vw * $pxm;
+          height: 8vw * $pxm;
+        }
+      }
+    }
+  }
+
+  .pagination {
+    padding: 20vw * $pxm 0;
+    div,
+    a {
+      width: 40vw * $pxm;
+      height: 40vw * $pxm;
+      border-radius: 8vw * $pxm;
+      font-size: 14vw * $pxm;
+      line-height: 20vw * $pxm;
+    }
+  }
+
+  header {
+    padding: 20vw * $pxm;
+    .btn-back {
+      img {
+        width: 8vw * $pxm;
+        margin: 0 15vw * $pxm 0 10vw * $pxm;
+      }
+      span {
+        font-size: 18vw * $pxm;
+        line-height: 27vw * $pxm;
+      }
+    }
+    .btn-menu {
+      width: 24vw * $pxm;
+      height: 24vw * $pxm;
+      margin-left: 18vw * $pxm;
+      padding: 0 2vw * $pxm;
+      .count {
+        top: -6vw * $pxm;
+        right: -7vw * $pxm;
+        font-size: 10vw * $pxm;
+        line-height: 10vw * $pxm;
+        width: 15vw * $pxm;
+        height: 15vw * $pxm;
+      }
+    }
+  }
+
+  footer {
+    padding: 20vw * $pxm;
+    height: 65vw * $pxm;
+    font-size: 15vw * $pxm;
+    line-height: 20vw * $pxm;
+  }
+
+  .catalog {
+    display: block;
+    padding: 20vw * $pxm;
+  }
+
+  .filters {
+    width: auto;
+    padding: 0;
+    border: none;
+    fieldset {
+      gap: 12vw * $pxm;
+      margin-bottom: 12vw * $pxm;
+    }
+    select {
+      padding: 10vw * $pxm 15vw * $pxm;
+    }
+    input {
+      border-radius: 4vw * $pxm;
+      height: 40vw * $pxm;
+      padding: 11vw * $pxm 14vw * $pxm;
+      font-size: 16vw * $pxm;
+      line-height: 20vw * $pxm;
+      margin-bottom: 12vw * $pxm;
+    }
+    button {
+      font-size: 16vw * $pxm;
+      line-height: 20vw * $pxm;
+      padding: 11vw * $pxm 25vw * $pxm 13vw * $pxm 25vw * $pxm;
+      margin-top: 10vw * $pxm;
+      border-radius: 4vw * $pxm;
+    }
+    .error-msg {
+      font-size: 12vw * $pxm;
+      line-height: 15vw * $pxm;
+      padding: 5vw * $pxm 0;
+      margin-top: -12vw * $pxm;
+    }
+    .selected-filters {
+      gap: 5vw * $pxm;
+      margin-top: 10vw * $pxm;
+      .f-item {
+        padding: 2vw * $pxm 5vw * $pxm 2vw * $pxm 10vw * $pxm;
+        border-radius: 20vw * $pxm;
+        span {
+          font-size: 12vw * $pxm;
+          line-height: 12vw * $pxm;
+        }
+        img {
+          width: 20vw * $pxm;
+        }
+      }
+    }
+  }
+
+  .list {
+    padding: 0;
+    margin-top: 18vw * $pxm;
+    .inner {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 14vw * $pxm 12vw * $pxm;
+      min-height: 250vw * $pxm;
+    }
+    .loader {
+      top: 50vw * $pxm;
+      width: 100vw * $pxm;
+      height: 100vw * $pxm;
+    }
+    .not-found {
+      padding: 20vw * $pxm;
+      img {
+        width: 100vw * $pxm;
+      }
+      .err-name {
+        font-size: 20vw * $pxm;
+        line-height: 25vw * $pxm;
+        margin-top: 20vw * $pxm;
+      }
+    }
+    .item {
+      display: flex;
+      flex-direction: column;
+      .pic {
+        border-radius: 8vw * $pxm;
+        height: 170vw * $pxm;
+        .fav-box {
+          top: 10vw * $pxm;
+          left: 10vw * $pxm;
+          width: 24vw * $pxm;
+          height: 24vw * $pxm;
+          border-radius: 4vw * $pxm;
+          svg {
+            width: 20vw * $pxm;
+          }
+        }
+      }
+      .name {
+        font-size: 14vw * $pxm;
+        line-height: 17vw * $pxm;
+        padding: 8vw * $pxm 0 3vw * $pxm 0;
+        white-space: normal;
+      }
+      .band {
+        font-size: 14vw * $pxm;
+        line-height: 17vw * $pxm;
+        margin-bottom: 7vw * $pxm;
+      }
+      .album-data {
+        font-size: 14vw * $pxm;
+        line-height: 17vw * $pxm;
+        margin-bottom: 3vw * $pxm;
+        white-space: normal;
+      }
+      .country {
+        margin-bottom: 10vw * $pxm;
+      }
+      .addBtn {
+        border-radius: 4vw * $pxm;
+        font-size: 16vw * $pxm;
+        line-height: 20vw * $pxm;
+        padding: 12vw * $pxm 20vw * $pxm;
+        margin-top: auto;
+        svg {
+          width: auto;
+          height: 20vw * $pxm;
+          margin-left: 10vw * $pxm;
+        }
+      }
+    }
+  }
+}

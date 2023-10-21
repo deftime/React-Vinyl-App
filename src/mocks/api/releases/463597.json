@@ -1,0 +1,48 @@
+{
+  "id": 463597,
+  "artist_id": 45467,
+  "artist": "Pink Floyd",
+  "title": "Wish You Were Here",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Prog Rock"
+  ],
+  "release_date": "1975-09-12",
+  "year": 1975,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/1R0Gzx-xnIr1obUWK-V91Gte-lFasAtOT6DiCE-HqsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzU5/Ny0xNjc1ODg2OTE1/LTIxMTQuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/_1djgr_cmgajmivwJDVN5Y7Zv4HA8wtUAn51vmbujs4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzU5/Ny0xNjc1ODg2OTE1/LTIxMTQuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "Shine On You Crazy Diamond (1-5)",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Welcome To The Machine",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Have A Cigar",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Wish You Were Here",
+      "duration": ""
+    },
+    {
+      "position": "",
+      "title": "Shine On You Crazy Diamond (6-9)",
+      "duration": ""
+    }
+  ]
+}

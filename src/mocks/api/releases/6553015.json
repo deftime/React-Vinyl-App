@@ -1,0 +1,96 @@
+{
+  "id": 6553015,
+  "artist_id": 125246,
+  "artist": "Nirvana",
+  "title": "MTV Unplugged In New York",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Grunge",
+    "Indie Rock",
+    "Acoustic"
+  ],
+  "release_date": "2013-09-03",
+  "year": 2013,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/J1uoZNCDAZ5PA8NCghLbNRxf0SYQWCd4BsQU9jQI6U0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTMw/MTUtMTQ1NDk2MzUy/MS0xOTY1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/VmfDj9DMi1NJo7OBfWu7UeRZe-Z5WUI4b9DwocNjIu0/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTMw/MTUtMTQ1NDk2MzUy/MS0xOTY1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "About A Girl",
+      "duration": "3:37"
+    },
+    {
+      "position": "A2",
+      "title": "Come As You Are",
+      "duration": "4:13"
+    },
+    {
+      "position": "A3",
+      "title": "Jesus Doesn't Want Me For A Sunbeam",
+      "duration": "4:37"
+    },
+    {
+      "position": "A4",
+      "title": "The Man Who Sold The World",
+      "duration": "4:20"
+    },
+    {
+      "position": "A5",
+      "title": "Pennyroyal Tea",
+      "duration": "3:40"
+    },
+    {
+      "position": "A6",
+      "title": "Dumb",
+      "duration": "2:52"
+    },
+    {
+      "position": "A7",
+      "title": "Polly",
+      "duration": "3:16"
+    },
+    {
+      "position": "B1",
+      "title": "On A Plain",
+      "duration": "3:44"
+    },
+    {
+      "position": "B2",
+      "title": "Something In The Way",
+      "duration": "4:01"
+    },
+    {
+      "position": "B3",
+      "title": "Plateau",
+      "duration": "3:38"
+    },
+    {
+      "position": "B4",
+      "title": "Oh Me",
+      "duration": "3:26"
+    },
+    {
+      "position": "B5",
+      "title": "Lake Of Fire",
+      "duration": "2:55"
+    },
+    {
+      "position": "B6",
+      "title": "All Apologies",
+      "duration": "4:23"
+    },
+    {
+      "position": "B7",
+      "title": "Where Did You Sleep Last Night",
+      "duration": "5:07"
+    }
+  ]
+}

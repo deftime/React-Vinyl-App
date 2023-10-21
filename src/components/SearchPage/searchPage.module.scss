@@ -1,0 +1,60 @@
+@import "../../styles/variables";
+@import "../../styles/templates";
+
+.searchWrap {
+  display: flex;
+}
+
+.filters {
+  position: relative;
+  border-right: 2px solid #edeef0;
+  min-width: 390vw * $px;
+}
+
+.list {
+  flex-grow: 1;
+  padding: 20vw * $px;
+  .title {
+    font-size: 30vw * $px;
+    line-height: 35vw * $px;
+    font-weight: 700;
+    padding-bottom: 10vw * $px;
+    margin-bottom: 10vw * $px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+  }
+  .inner {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(5, 275vw * $px);
+    gap: 20vw * $px;
+    overflow-y: auto;
+    min-height: 80vh;
+  }
+}
+
+@media screen and (max-width: 435px) {
+  .searchWrap {
+    display: block;
+    padding: 20vw * $pxm;
+  }
+
+  .filters {
+    min-width: unset;
+  }
+
+  .list {
+    padding: 0;
+    margin-top: 18vw * $pxm;
+    .title {
+      font-size: 25vw * $pxm;
+      line-height: 30vw * $pxm;
+      padding: 15vw * $pxm 0;
+      margin: 0 15vw * $pxm;
+    }
+    .inner {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 14vw * $pxm 12vw * $pxm;
+      min-height: 250vw * $pxm;
+    }
+  }
+}

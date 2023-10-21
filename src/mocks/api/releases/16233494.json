@@ -1,0 +1,117 @@
+{
+  "id": 16233494,
+  "artist_id": 2482309,
+  "artist": "Childish Gambino",
+  "title": "Because The Internet",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "release_date": "2020",
+  "year": 2020,
+  "all_countries": [
+    "uk",
+    "europe",
+    "us"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/mdRQicDMK7vuW269O1-vVfINHhTazsDFI_VW1ikplzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjMz/NDk0LTE2Mzk1MDcw/MzItMzg0Ny5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/yY2vEsKRhtdEXLd9JY1fisvn0uidu2oMQt2iVS6YLIY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjMz/NDk0LTE2Mzk1MDcw/MzItMzg0Ny5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The Library",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "I. Crawl",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "II. Worldstar",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Dial Up",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "I. The Worst Guys",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "II. Shadows",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "III. Telegraph Ave. (Oakland by Lloyd)",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "IV. Sweatpants",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "V. 3005",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Playing Around Before The Party Starts",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "I. Party",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "II. No Exit",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Death By Numbers",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "I. Flight Of The Navigator",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "II. Zealots of Stockholm [Free Information]",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "III. Urn",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Pink Toes",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Earth: The Oldest Computer (The Last Night)",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Life: The Biggest Troll [Andrew Auernheimer]",
+      "duration": ""
+    }
+  ]
+}

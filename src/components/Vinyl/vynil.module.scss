@@ -1,0 +1,117 @@
+@import "../../styles/variables";
+@import "../../styles/templates";
+
+.item {
+  color: $brandColor;
+  max-width: 275vw * $px;
+  &.loading {
+    opacity: 0.3;
+  }
+  .pic {
+    position: relative;
+    border-radius: 8vw * $px;
+    width: 100%;
+    height: 275vw * $px;
+    overflow: hidden;
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .favBox {
+      @extend %flexCenter;
+      position: absolute;
+      top: 10vw * $px;
+      left: 10vw * $px;
+      width: 40vw * $px;
+      height: 40vw * $px;
+      background-color: #fff;
+      border-radius: 7vw * $px;
+      border: none;
+      svg {
+        width: 30vw * $px;
+        height: auto;
+      }
+    }
+  }
+  .name {
+    @extend %oneLineCut;
+    font-size: 18vw * $px;
+    line-height: 23vw * $px;
+    font-weight: 700;
+    padding: 10vw * $px 0 5vw * $px 0;
+  }
+  .band {
+    @extend %oneLineCut;
+    font-size: 18vw * $px;
+    line-height: 23vw * $px;
+    font-weight: 500;
+    margin-bottom: 10vw * $px;
+  }
+}
+
+.enter {
+  opacity: 0;
+  height: 0;
+}
+
+.enterActive {
+  opacity: 1;
+  height: 100%;
+  transition: 0.5s ease;
+}
+
+.enterDone {
+  opacity: 1;
+  height: 100%;
+}
+
+.exit {
+  opacity: 1;
+  height: 100%;
+}
+
+.exitActive {
+  opacity: 0;
+  height: 0;
+  transition: 0.5s ease;
+}
+
+.exitDone {
+  opacity: 0;
+  height: 0;
+}
+
+@media screen and (max-width: 435px) {
+  .item {
+    display: flex;
+    flex-direction: column;
+    max-width: unset;
+    .pic {
+      border-radius: 8vw * $pxm;
+      height: 170vw * $pxm;
+      .favBox {
+        top: 10vw * $pxm;
+        left: 10vw * $pxm;
+        width: 24vw * $pxm;
+        height: 24vw * $pxm;
+        border-radius: 4vw * $pxm;
+        svg {
+          width: 20vw * $pxm;
+        }
+      }
+    }
+    .name {
+      font-size: 14vw * $pxm;
+      line-height: 17vw * $pxm;
+      padding: 8vw * $pxm 0 3vw * $pxm 0;
+      white-space: normal;
+    }
+    .band {
+      font-size: 14vw * $pxm;
+      line-height: 17vw * $pxm;
+      margin-bottom: 7vw * $pxm;
+      white-space: normal;
+    }
+  }
+}

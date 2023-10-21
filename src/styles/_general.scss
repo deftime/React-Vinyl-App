@@ -1,0 +1,391 @@
+.selectric-wrapper {
+  .selectric {
+    border: 1px solid #edeef0;
+    border-radius: 4vw * $px;
+    background-color: #fff;
+    .label {
+      font-size: 16vw * $px;
+      line-height: 16vw * $px;
+      color: #6c7072;
+      background: none;
+      height: auto;
+      padding: 13vw * $px 0;
+      margin: 0 35vw * $px 0 10vw * $px;
+    }
+    .button {
+      background: none;
+      width: 43vw * $px;
+      height: 43vw * $px;
+      &:after {
+        border: none;
+        width: 15vw * $px;
+        height: 8vw * $px;
+        background-image: url("../img/arr-down.svg");
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        transition: 0.3s ease;
+      }
+    }
+  }
+  &.selectric-open {
+    .selectric {
+      border-color: #083644;
+      .button:after {
+        transform: rotate(180deg);
+      }
+    }
+  }
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 2vw * $px;
+  padding: 20vw * $px 0;
+  div,
+  a {
+    @extend %flexCenter;
+    font-family: "Poppins", sans-serif;
+    width: 40vw * $px;
+    height: 40vw * $px;
+    border-radius: 8vw * $px;
+    font-size: 14vw * $px;
+    line-height: 20vw * $px;
+  }
+  div {
+    background-color: $brandColor;
+    color: #fff;
+  }
+  a {
+    background-color: #fff;
+    color: #738286;
+    text-decoration: none;
+    &:hover {
+      color: $brandColor;
+      text-decoration: underline;
+    }
+  }
+}
+
+header {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  padding: 20vw * $px;
+  background-color: #083644;
+  .btn-back {
+    display: flex;
+    margin-right: auto;
+    text-decoration: none;
+    border: none;
+    background: none;
+    cursor: pointer;
+    img {
+      display: block;
+      width: 8vw * $px;
+      height: auto;
+      margin: 0 15vw * $px 0 10vw * $px;
+    }
+    span {
+      font-family: "Poppins", sans-serif;
+      font-size: 18vw * $px;
+      line-height: 27vw * $px;
+      color: #fff;
+    }
+  }
+  .btn-menu {
+    position: relative;
+    flex-shrink: 0;
+    width: 24vw * $px;
+    height: 24vw * $px;
+    margin-left: 18vw * $px;
+    padding: 0 2vw * $px;
+    cursor: pointer;
+    svg {
+      width: 100%;
+      height: auto;
+    }
+    .count {
+      @extend %flexCenter;
+      position: absolute;
+      top: -6vw * $px;
+      right: -7vw * $px;
+      font-size: 10vw * $px;
+      line-height: 10vw * $px;
+      width: 15vw * $px;
+      height: 15vw * $px;
+      border-radius: 50%;
+      background-color: #fff;
+      color: #083644;
+    }
+    &:hover {
+      svg path {
+        fill: #fff;
+      }
+    }
+  }
+}
+
+footer {
+  flex-shrink: 0;
+  font-family: "Poppins", sans-serif;
+  padding: 20vw * $px;
+  background-color: #083644;
+  height: 65vw * $px;
+  font-size: 15vw * $px;
+  line-height: 20vw * $px;
+  color: #fff;
+}
+
+.catalog {
+  flex-grow: 1;
+  display: flex;
+}
+
+.filters {
+  flex-shrink: 0;
+  width: 390vw * $px;
+  padding: 20vw * $px;
+  border-right: 2px solid #edeef0;
+  fieldset {
+    display: flex;
+    gap: 12vw * $px;
+    border: none;
+    margin-bottom: 12vw * $px;
+    width: 100%;
+    .selectric-wrapper {
+      flex: 1 0 45%;
+    }
+    select {
+      flex: 1 1 45%;
+      width: auto;
+    }
+  }
+  select {
+    font-family: "Jakarta", sans-serif;
+    border: none;
+    border-radius: 0;
+    padding: 10vw * $px 15vw * $px;
+    width: 100%;
+  }
+  input {
+    display: block;
+    border: 1px solid #edeef0;
+    border-radius: 4vw * $px;
+    background-color: #fff;
+    height: 40vw * $px;
+    width: 100%;
+    padding: 10vw * $px 14vw * $px;
+    font-size: 16vw * $px;
+    line-height: 20vw * $px;
+    color: #000;
+    margin-bottom: 12vw * $px;
+    &::placeholder {
+      font-family: "Jakarta", sans-serif;
+      color: #6c7072;
+      opacity: 1;
+    }
+    &:focus {
+      outline: none;
+      border-color: #083644;
+      border-width: 1px;
+    }
+  }
+  button {
+    font-family: "Jakarta", sans-serif;
+    font-size: 16vw * $px;
+    line-height: 20vw * $px;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    padding: 10vw * $px 25vw * $px 13vw * $px 25vw * $px;
+    margin-top: 10vw * $px;
+    border: 2px solid #083644;
+    border-radius: 4vw * $px;
+    background-color: #083644;
+    cursor: pointer;
+    &:hover:not([disabled]) {
+      background-color: #fff;
+      color: #083644;
+    }
+    &[disabled] {
+      background-color: gray;
+      border-color: gray;
+      cursor: not-allowed;
+    }
+    & + .error-msg {
+      margin-top: 0;
+    }
+  }
+  .error-msg {
+    display: none;
+    font-size: 12vw * $px;
+    line-height: 15vw * $px;
+    color: red;
+    padding: 5vw * $px 0;
+    margin-top: -12vw * $px;
+    &.on-error {
+      display: block;
+    }
+  }
+  .selected-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5vw * $px;
+    margin-top: 10vw * $px;
+    .f-item {
+      display: flex;
+      align-items: center;
+      padding: 2vw * $px 5vw * $px 2vw * $px 10vw * $px;
+      border-radius: 20vw * $px;
+      background-color: #e9e9ed;
+      cursor: pointer;
+      span {
+        font-size: 12vw * $px;
+        line-height: 12vw * $px;
+        font-weight: 700;
+      }
+      img {
+        width: 20vw * $px;
+      }
+    }
+    .reset-all {
+      display: none;
+      background-color: #b2b2e6;
+    }
+    .f-item ~ .reset-all {
+      display: flex;
+    }
+  }
+}
+
+.list {
+  flex-grow: 1;
+  padding: 20vw * $px;
+  .inner {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(5, 275vw * $px);
+    gap: 20vw * $px;
+    overflow-y: auto;
+    min-height: 80vh;
+  }
+  .loader {
+    position: absolute;
+    top: 300vw * $px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 100vw * $px;
+    height: 100vw * $px;
+    z-index: 10;
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+  .not-found {
+    position: absolute;
+    width: 100%;
+    padding: 50vw * $px 0;
+    text-align: center;
+    img {
+      width: 300vw * $px;
+      height: auto;
+    }
+    .err-name {
+      font-size: 30vw * $px;
+      line-height: 35vw * $px;
+      text-align: center;
+      margin-top: 30vw * $px;
+    }
+  }
+  .item {
+    color: $brandColor;
+    &.loading {
+      opacity: 0.3;
+    }
+    .pic {
+      position: relative;
+      border-radius: 8vw * $px;
+      width: 100%;
+      height: 275vw * $px;
+      overflow: hidden;
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+      .fav-box {
+        @extend %flexCenter;
+        position: absolute;
+        top: 10vw * $px;
+        left: 10vw * $px;
+        width: 40vw * $px;
+        height: 40vw * $px;
+        background-color: #fff;
+        border-radius: 7vw * $px;
+        border: none;
+        svg {
+          width: 30vw * $px;
+          height: auto;
+        }
+      }
+    }
+    .name {
+      @extend %oneLineCut;
+      font-size: 18vw * $px;
+      line-height: 23vw * $px;
+      font-weight: 700;
+      padding: 10vw * $px 0 5vw * $px 0;
+    }
+    .band {
+      @extend %oneLineCut;
+      font-size: 18vw * $px;
+      line-height: 23vw * $px;
+      font-weight: 500;
+      margin-bottom: 10vw * $px;
+    }
+    .album-data {
+      @extend %oneLineCut;
+      font-size: 18vw * $px;
+      line-height: 23vw * $px;
+      margin-bottom: 5vw * $px;
+      span:first-child {
+        color: #738286;
+      }
+    }
+    .addBtn {
+      @extend %flexCenter;
+      font-family: "Jakarta", sans-serif;
+      border: 2px solid $brandColor;
+      border-radius: 7vw * $px;
+      background-color: $brandColor;
+      color: #fff;
+      font-size: 20vw * $px;
+      line-height: 25vw * $px;
+      font-weight: 500;
+      padding: 12vw * $px 20vw * $px;
+      margin-top: 15vw * $px;
+      width: 100%;
+      cursor: pointer;
+      svg {
+        width: 20vw * $px;
+        height: auto;
+        margin-left: 10vw * $px;
+      }
+      &:hover {
+        background-color: #fff;
+        color: $brandColor;
+        svg path {
+          stroke: $brandColor;
+        }
+      }
+      &.added {
+        background-color: #fff;
+        color: $brandColor;
+      }
+    }
+  }
+}
