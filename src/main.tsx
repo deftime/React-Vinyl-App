@@ -82,7 +82,11 @@ const router = createBrowserRouter([
 
 async function bootstrap() {
   const { worker } = await import("./mocks/browser.js");
-  worker.start();
+  worker.start({
+    serviceWorker: {
+      url: `${BASE_URL}mockServiceWorker.js`,
+    },
+  });
 }
 
 bootstrap().then(() => {
