@@ -1,0 +1,91 @@
+{
+  "id": 7252111,
+  "artist_id": 1245513,
+  "artist": "Tame Impala",
+  "title": "Currents",
+  "all_genres": [
+    1,
+    4
+  ],
+  "genre": 1,
+  "styles": [
+    "Indie Rock",
+    "Psychedelic Rock",
+    "Synth-pop"
+  ],
+  "release_date": "2015-07-17",
+  "year": 2015,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/tvn7ouXeTVnlryboR4_464fCcU_YGiFylAqefP2hF1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTIx/MTEtMTQzOTg5NDcx/Ny02MTQyLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/7yxfHtHp-sZ2YaIEtxw4_3cQXUUaiivqgqmgGkEfvXU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTIx/MTEtMTQzOTg5NDcx/Ny02MTQyLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Let It Happen",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Nangs",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "The Moment",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Yes I'm Changing",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Eventually",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Gossip",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "The Less I Know The Better",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Past Life",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Disciples",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Cause I'm A Man",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Reality In Motion",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Love / Paranoia",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "New Person, Same Old Mistakes",
+      "duration": ""
+    }
+  ]
+}

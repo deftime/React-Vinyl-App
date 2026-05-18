@@ -1,0 +1,86 @@
+{
+  "id": 3433715,
+  "artist_id": 2445772,
+  "artist": "Lana Del Rey",
+  "title": "Born To Die",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Dream Pop",
+    "Indie Pop",
+    "Trip Hop"
+  ],
+  "release_date": "2012-02-21",
+  "year": 2012,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/fDB1ij3CCO1ciT3UvCWw1rQkZJbciz59l8x07Mx0aiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzM3/MTUtMTQ3NDkxOTI4/My03NzA4LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/F8bfIcABuBe-GlLToSWZZwROiApHfLc6uRZdJSUwm7E/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzM3/MTUtMTQ3NDkxOTI4/My03NzA4LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Born To Die",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Off To The Races",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Blue Jeans",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Video Games",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Diet Mountain Dew",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "National Anthem",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Dark Paradise",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Radio",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Carmen",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Million Dollar Man",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Summertime Sadness",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "This Is What Makes Us Girls",
+      "duration": ""
+    }
+  ]
+}

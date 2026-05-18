@@ -1,0 +1,74 @@
+{
+  "id": 5734538,
+  "artist_id": 34278,
+  "artist": "Led Zeppelin",
+  "title": "Led Zeppelin III",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Classic Rock",
+    "Hard Rock"
+  ],
+  "release_date": "2014-06-02",
+  "year": 2014,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/Ds7hEBBOuFxWlm_rtcz0J84KlcKYTNzGMyci_50q6gg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzQ1/MzgtMTY0MzczOTMz/NC05NjE5LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/-ovPaTfsXlCRCUVLq-oLaRI-hyJjSz4W9M7jDaMpGhQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzQ1/MzgtMTY0MzczOTMz/NC05NjE5LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Immigrant Song",
+      "duration": "2:26"
+    },
+    {
+      "position": "A2",
+      "title": "Friends",
+      "duration": "3:53"
+    },
+    {
+      "position": "A3",
+      "title": "Celebration Day",
+      "duration": "3:30"
+    },
+    {
+      "position": "A4",
+      "title": "Since I've Been Loving You",
+      "duration": "7:24"
+    },
+    {
+      "position": "A5",
+      "title": "Out On The Tiles",
+      "duration": "4:07"
+    },
+    {
+      "position": "B1",
+      "title": "Gallows Pole",
+      "duration": "4:57"
+    },
+    {
+      "position": "B2",
+      "title": "Tangerine",
+      "duration": "3:11"
+    },
+    {
+      "position": "B3",
+      "title": "That's The Way",
+      "duration": "5:37"
+    },
+    {
+      "position": "B4",
+      "title": "Bron-Y-Aur Stomp",
+      "duration": "4:17"
+    },
+    {
+      "position": "B5",
+      "title": "Hats Off To (Roy) Harper",
+      "duration": "3:42"
+    }
+  ]
+}

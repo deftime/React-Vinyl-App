@@ -1,0 +1,75 @@
+{
+  "id": 367750,
+  "artist_id": 7987,
+  "artist": "The Police",
+  "title": "Synchronicity",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "New Wave",
+    "Pop Rock"
+  ],
+  "release_date": "1983-06-00",
+  "year": 1983,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/SFYnI_d_Rz6I2_PeRhIPFlMkAN3PA16CAjVGanws78I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzc1/MC0xNDQzMjIwNjMz/LTExNDcuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/q6GPXiH-pLBsrs7pLQDKFgFB43t85ZAlZN0XSdFiQtM/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzc1/MC0xNDQzMjIwNjMz/LTExNDcuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Synchronicity I",
+      "duration": "3:23"
+    },
+    {
+      "position": "A2",
+      "title": "Walking In Your Footsteps",
+      "duration": "3:35"
+    },
+    {
+      "position": "A3",
+      "title": "O My God",
+      "duration": "4:00"
+    },
+    {
+      "position": "A4",
+      "title": "Mother",
+      "duration": "3:03"
+    },
+    {
+      "position": "A5",
+      "title": "Miss Gradenko",
+      "duration": "2:00"
+    },
+    {
+      "position": "A6",
+      "title": "Synchronicity II",
+      "duration": "5:04"
+    },
+    {
+      "position": "B1",
+      "title": "Every Breath You Take",
+      "duration": "4:13"
+    },
+    {
+      "position": "B2",
+      "title": "King Of Pain",
+      "duration": "4:59"
+    },
+    {
+      "position": "B3",
+      "title": "Wrapped Around Your Finger",
+      "duration": "5:12"
+    },
+    {
+      "position": "B4",
+      "title": "Tea In The Sahara",
+      "duration": "4:11"
+    }
+  ]
+}

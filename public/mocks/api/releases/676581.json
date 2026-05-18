@@ -1,0 +1,79 @@
+{
+  "id": 676581,
+  "artist_id": 7987,
+  "artist": "The Police",
+  "title": "Ghost In The Machine",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "New Wave"
+  ],
+  "release_date": "1981-10-02",
+  "year": 1981,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/PoRB2G1sV5YqX79b2pmtA4fmQP53i-Y8_5IptZB162Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjU4/MS0xNjcyMjg4NDYw/LTMxNDYuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/0aNBTQqTX9KSuL0Z1z9ej-AVLrQfpmDvGYSzDYrMrXg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjU4/MS0xNjcyMjg4NDYw/LTMxNDYuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Spirits In The Material World",
+      "duration": "2:58"
+    },
+    {
+      "position": "A2",
+      "title": "Every Little Thing She Does Is Magic",
+      "duration": "4:20"
+    },
+    {
+      "position": "A3",
+      "title": "Invisible Sun",
+      "duration": "3:43"
+    },
+    {
+      "position": "A4",
+      "title": "Hungry For You (J'Aurais Toujours Faim De Toi)",
+      "duration": "2:52"
+    },
+    {
+      "position": "A5",
+      "title": "Demolition Man",
+      "duration": "5:54"
+    },
+    {
+      "position": "B1",
+      "title": "Too Much Information",
+      "duration": "3:10"
+    },
+    {
+      "position": "B2",
+      "title": "Rehumanize Yourself",
+      "duration": "3:42"
+    },
+    {
+      "position": "B3",
+      "title": "One World (Not Three)",
+      "duration": "4:45"
+    },
+    {
+      "position": "B4",
+      "title": "Omegaman",
+      "duration": "2:47"
+    },
+    {
+      "position": "B5",
+      "title": "Secret Journey",
+      "duration": "3:32"
+    },
+    {
+      "position": "B6",
+      "title": "Darkness",
+      "duration": "3:11"
+    }
+  ]
+}

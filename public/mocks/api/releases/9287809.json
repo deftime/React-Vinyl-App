@@ -1,0 +1,75 @@
+{
+  "id": 9287809,
+  "artist_id": 45467,
+  "artist": "Pink Floyd",
+  "title": "The Dark Side Of The Moon",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Prog Rock",
+    "Psychedelic Rock",
+    "Classic Rock"
+  ],
+  "release_date": "2016-11-04",
+  "year": 2016,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/sVLIxn9GSzw4lpSDt2YnmRMfTbMN1CrAkfjo0M7-ckk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODc4/MDktMTQ3OTc1MzIz/Ni05NjE3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/1fwskTLM6cfxbdNmBDJ8expl6wab0tEgxvuloLIqKh8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODc4/MDktMTQ3OTc1MzIz/Ni05NjE3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Speak To Me",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Breathe (In The Air)",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "On The Run",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Time",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "The Great Gig In The Sky",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Money",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Us And Them",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Any Colour You Like",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Brain Damage",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Eclipse",
+      "duration": ""
+    }
+  ]
+}

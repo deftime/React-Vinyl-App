@@ -1,0 +1,65 @@
+{
+  "id": 127166,
+  "artist_id": 10263,
+  "artist": "David Bowie",
+  "title": "Let's Dance",
+  "all_genres": [
+    4,
+    2,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1983-04-14",
+  "year": 1983,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/JDXgGioYwePGY-6txgYOaPrPSVf-A1khtNET2XQ6Q7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE2/Ni0xMjA0NTU5MjEz/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/xWASnGws7xs5S7dw6u-x8hOoJ9Li7eKDhWdHKN-nKnw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE2/Ni0xMjA0NTU5MjEz/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Modern Love",
+      "duration": "4:46"
+    },
+    {
+      "position": "A2",
+      "title": "China Girl",
+      "duration": "5:32"
+    },
+    {
+      "position": "A3",
+      "title": "Let's Dance",
+      "duration": "7:36"
+    },
+    {
+      "position": "A4",
+      "title": "Without You",
+      "duration": "3:09"
+    },
+    {
+      "position": "B1",
+      "title": "Ricochet",
+      "duration": "5:13"
+    },
+    {
+      "position": "B2",
+      "title": "Criminal World",
+      "duration": "4:24"
+    },
+    {
+      "position": "B3",
+      "title": "Cat People (Putting Out Fire)",
+      "duration": "5:05"
+    },
+    {
+      "position": "B4",
+      "title": "Shake It",
+      "duration": "3:51"
+    }
+  ]
+}

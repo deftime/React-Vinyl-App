@@ -1,0 +1,73 @@
+{
+  "id": 1949857,
+  "artist_id": 84752,
+  "artist": "AC/DC",
+  "title": "Back In Black",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock"
+  ],
+  "release_date": "2009-05-08",
+  "year": 2009,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/Hy7FpycOkQuYZK3WQJB441bXpxts4SMTW7QIAzyN5k4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDk4/NTctMTQwOTczMDg4/Mi05NDIyLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/LUDXoTT0k0bB3MaODEh9QZ2nrX_Y602vqCqP4lseybE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDk4/NTctMTQwOTczMDg4/Mi05NDIyLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Hells Bells",
+      "duration": "5:09"
+    },
+    {
+      "position": "A2",
+      "title": "Shoot To Thrill",
+      "duration": "5:14"
+    },
+    {
+      "position": "A3",
+      "title": "What Do You Do For Money Honey",
+      "duration": "3:33"
+    },
+    {
+      "position": "A4",
+      "title": "Givin The Dog A Bone",
+      "duration": "3:30"
+    },
+    {
+      "position": "A5",
+      "title": "Let Me Put My Love Into You",
+      "duration": "4:12"
+    },
+    {
+      "position": "B1",
+      "title": "Back In Black",
+      "duration": "4:13"
+    },
+    {
+      "position": "B2",
+      "title": "You Shook Me All Night Long",
+      "duration": "3:28"
+    },
+    {
+      "position": "B3",
+      "title": "Have A Drink On Me",
+      "duration": "3:57"
+    },
+    {
+      "position": "B4",
+      "title": "Shake A Leg",
+      "duration": "4:03"
+    },
+    {
+      "position": "B5",
+      "title": "Rock And Roll Ain't Noise Pollution",
+      "duration": "4:12"
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import clsx from "clsx";
 import cls from "./header.module.scss";
+import { BASE_URL } from "../../main.tsx";
 
 interface headerPropsType {
   collection: number;
@@ -18,10 +19,10 @@ function Header({ collection, favorites }: headerPropsType) {
         <span>Back</span>
       </button>
       <div className={cls.nav}>
-        <Link to={"/"} className={cls.navItem}>
+        <Link to={BASE_URL} className={cls.navItem}>
           Home
         </Link>
-        <Link to={"/search"} className={cls.navItem}>
+        <Link to={`${BASE_URL}search`} className={cls.navItem}>
           Search
         </Link>
       </div>

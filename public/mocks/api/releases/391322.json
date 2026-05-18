@@ -1,0 +1,48 @@
+{
+  "id": 391322,
+  "artist_id": 45467,
+  "artist": "Pink Floyd",
+  "title": "Animals",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Prog Rock"
+  ],
+  "release_date": "1977-01-21",
+  "year": 1977,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/tJHPz9cOZPJDSP-vnpAbcTQ5QJzhClKkuksDe8D4gts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTMy/Mi0xNjQ4NDkwODk1/LTI2NzkuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/Di7BBzcT3GKLkRaJ3vnO40HLXn1vQgz5DSf0axqy4IU/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTMy/Mi0xNjQ4NDkwODk1/LTI2NzkuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Pigs On The Wing 1",
+      "duration": "1:24"
+    },
+    {
+      "position": "A2",
+      "title": "Dogs",
+      "duration": "17:01"
+    },
+    {
+      "position": "B1",
+      "title": "Pigs (Three Different Ones)",
+      "duration": "11:20"
+    },
+    {
+      "position": "B2",
+      "title": "Sheep",
+      "duration": "10:22"
+    },
+    {
+      "position": "B3",
+      "title": "Pigs On The Wing 2",
+      "duration": "1:24"
+    }
+  ]
+}

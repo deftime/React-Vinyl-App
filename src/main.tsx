@@ -10,6 +10,8 @@ import SearchPage from "./components/SearchPage/SearchPage.tsx";
 import SearchResultPage from "./components/SearchResultPage/SearchResultPage.tsx";
 import Error from "./components/Error/Error.tsx";
 
+export const BASE_URL = import.meta.env.PROD ? '/React-Vinyl-App/' : '/';
+
 const root = createRoot(document.querySelector("#app") as HTMLElement);
 
 const router = createBrowserRouter([
@@ -17,7 +19,7 @@ const router = createBrowserRouter([
     element: <App />,
     children: [
       {
-        path: "/",
+        path: BASE_URL,
         element: (
           <ErrorBoundary FallbackComponent={Error}>
             <Suspense
@@ -35,7 +37,7 @@ const router = createBrowserRouter([
         ),
       },
       {
-        path: "search",
+        path: `${BASE_URL}search`,
         element: (
           <ErrorBoundary FallbackComponent={Error}>
             <Suspense
@@ -53,7 +55,7 @@ const router = createBrowserRouter([
         ),
       },
       {
-        path: "result",
+        path: `${BASE_URL}result`,
         element: (
           <ErrorBoundary FallbackComponent={Error}>
             <Suspense
@@ -79,10 +81,8 @@ const router = createBrowserRouter([
 ]);
 
 async function bootstrap() {
-  if (import.meta.env.DEV) {
-    const { worker } = await import("./mocks/browser.js");
-    worker.start();
-  }
+  const { worker } = await import("./mocks/browser.js");
+  worker.start();
 }
 
 bootstrap().then(() => {

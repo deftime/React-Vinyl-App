@@ -8,6 +8,7 @@ import Chip from "../Chip/Chip.tsx";
 import useCountryListAsync from "../../hooks/useCountryListAsync.ts";
 import useStyleListAsync from "../../hooks/useStyleListAsync.ts";
 import type { IdNameType } from "../Application.tsx";
+import { BASE_URL } from "../../main.tsx";
 
 export interface FilterFormType {
   artist: string;
@@ -61,7 +62,7 @@ function Filters() {
       queryLine.set("country", formData.country);
     }
     navigator({
-      pathname: "/result",
+      pathname: `${BASE_URL}result`,
       search: queryLine.toString(),
     });
   }

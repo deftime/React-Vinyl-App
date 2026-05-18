@@ -1,0 +1,73 @@
+{
+  "id": 1526433,
+  "artist_id": 2774,
+  "artist": "Portishead",
+  "title": "Dummy",
+  "all_genres": [
+    1
+  ],
+  "genre": 1,
+  "styles": [
+    "Trip Hop"
+  ],
+  "release_date": "2000-01-01",
+  "year": 2000,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/y94oLxrPbe0x7ZHAyos9cYI5eZtpv1Kx3ukYV8WWS0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY0/MzMtMTQ0ODYxMDQz/NC03Nzk5LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/pBhgkDDUQK_KPJHwvGqFVlnky6T9fpfBVu_7fAuyEdg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY0/MzMtMTQ0ODYxMDQz/NC03Nzk5LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Mysterons",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Sour Times",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Strangers",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "It Could Be Sweet",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Wandering Star",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Numb",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Roads",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Pedestal",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Biscuit",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Glory Box",
+      "duration": ""
+    }
+  ]
+}

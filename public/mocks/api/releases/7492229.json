@@ -1,0 +1,94 @@
+{
+  "id": 7492229,
+  "artist_id": 124535,
+  "artist": "Guns N' Roses",
+  "title": "Appetite For Destruction",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock",
+    "Heavy Metal"
+  ],
+  "release_date": "2015-04-00",
+  "year": 2015,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/AgsrvrLZtYcYKn-LwfxNx4GSqO5N-XufElqAm5g7js8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTIy/MjktMTQ4OTQ3ODcy/NS0yMjI0LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/Lj0CHYaSCmIOrol0NWFwSGEPDASynGJeaS1B1hQ9uQ0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTIy/MjktMTQ4OTQ3ODcy/NS0yMjI0LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "G",
+      "duration": ""
+    },
+    {
+      "position": "G1",
+      "title": "Welcome To The Jungle",
+      "duration": "4:31"
+    },
+    {
+      "position": "G2",
+      "title": "It's So Easy",
+      "duration": "3:21"
+    },
+    {
+      "position": "G3",
+      "title": "Nightrain",
+      "duration": "4:26"
+    },
+    {
+      "position": "G4",
+      "title": "Out Ta Get Me",
+      "duration": "4:20"
+    },
+    {
+      "position": "G5",
+      "title": "Mr. Brownstone",
+      "duration": "3:46"
+    },
+    {
+      "position": "G6",
+      "title": "Paradise City",
+      "duration": "6:46"
+    },
+    {
+      "position": "",
+      "title": "R",
+      "duration": ""
+    },
+    {
+      "position": "R1",
+      "title": "My Michelle",
+      "duration": "3:39"
+    },
+    {
+      "position": "R2",
+      "title": "Think About You",
+      "duration": "3:50"
+    },
+    {
+      "position": "R3",
+      "title": "Sweet Child O' Mine",
+      "duration": "5:55"
+    },
+    {
+      "position": "R4",
+      "title": "You're Crazy",
+      "duration": "3:15"
+    },
+    {
+      "position": "R5",
+      "title": "Anything Goes",
+      "duration": "3:25"
+    },
+    {
+      "position": "R6",
+      "title": "Rocket Queen",
+      "duration": "6:13"
+    }
+  ]
+}

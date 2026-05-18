@@ -1,0 +1,79 @@
+{
+  "id": 2548932,
+  "artist_id": 56798,
+  "artist": "The Doors",
+  "title": "The Doors",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Psychedelic Rock",
+    "Blues Rock"
+  ],
+  "release_date": "2009-09-14",
+  "year": 2009,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/_IdOPvchIjdoLH8qUYFz4YjNm71JYkDXrFvljjTj7kw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDg5/MzItMTUyNTM3Mjcz/NC01MzAxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/RgwvEQj9d-c-ZZwTTQd_51liBGDGx-1Mwi4slUyacI0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDg5/MzItMTUyNTM3Mjcz/NC01MzAxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Break On Through (To The Other Side)",
+      "duration": "2:25"
+    },
+    {
+      "position": "A2",
+      "title": "Soul Kitchen",
+      "duration": "3:30"
+    },
+    {
+      "position": "A3",
+      "title": "The Crystal Ship",
+      "duration": "2:30"
+    },
+    {
+      "position": "A4",
+      "title": "Twentieth Century Fox",
+      "duration": "2:30"
+    },
+    {
+      "position": "A5",
+      "title": "Alabama Song (Whisky Bar)",
+      "duration": "3:15"
+    },
+    {
+      "position": "A6",
+      "title": "Light My Fire",
+      "duration": "6:50"
+    },
+    {
+      "position": "B1",
+      "title": "Back Door Man",
+      "duration": "3:30"
+    },
+    {
+      "position": "B2",
+      "title": "I Looked At You",
+      "duration": "2:18"
+    },
+    {
+      "position": "B3",
+      "title": "End Of The Night",
+      "duration": "2:49"
+    },
+    {
+      "position": "B4",
+      "title": "Take It As It Comes",
+      "duration": "2:13"
+    },
+    {
+      "position": "B5",
+      "title": "The End",
+      "duration": "11:35"
+    }
+  ]
+}

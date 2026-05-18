@@ -1,0 +1,74 @@
+{
+  "id": 247822,
+  "artist_id": 15885,
+  "artist": "Michael Jackson",
+  "title": "Bad",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Disco"
+  ],
+  "release_date": "1987-09-01",
+  "year": 1987,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/FZj0IWfaVe-4ptoYi70dnwDW7TIfpF2-fbLz0FVHseE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTczNTU0MjI0/LTg1MjUuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/X6yjDt4r8KE4ZSQMe2tNPBdqSqN2nsfsXtSUj2hqnlk/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgy/Mi0xNTczNTU0MjI0/LTg1MjUuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Bad",
+      "duration": "4:06"
+    },
+    {
+      "position": "A2",
+      "title": "The Way You Make Me Feel",
+      "duration": "4:58"
+    },
+    {
+      "position": "A3",
+      "title": "Speed Demon",
+      "duration": "4:01"
+    },
+    {
+      "position": "A4",
+      "title": "Liberian Girl",
+      "duration": "3:52"
+    },
+    {
+      "position": "A5",
+      "title": "Just Good Friends",
+      "duration": "4:05"
+    },
+    {
+      "position": "B1",
+      "title": "Another Part Of Me",
+      "duration": "3:53"
+    },
+    {
+      "position": "B2",
+      "title": "Man In The Mirror",
+      "duration": "5:18"
+    },
+    {
+      "position": "B3",
+      "title": "I Just Can't Stop Loving You",
+      "duration": "4:23"
+    },
+    {
+      "position": "B4",
+      "title": "Dirty Diana",
+      "duration": "4:52"
+    },
+    {
+      "position": "B5",
+      "title": "Smooth Criminal",
+      "duration": "4:16"
+    }
+  ]
+}

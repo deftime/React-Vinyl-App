@@ -1,0 +1,65 @@
+{
+  "id": 1581600,
+  "artist_id": 113020,
+  "artist": "Boston",
+  "title": "Boston",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock",
+    "Pop Rock",
+    "Arena Rock"
+  ],
+  "release_date": "1977",
+  "year": 1977,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/S09KjsmmmojLgy_9FepUWbEEAgG-DPqt0Qc79pE-LRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE2/MDAtMTMxNzI3MTM0/Mi5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/PjkJcHEL3tAYRfz7LbNUGCWXXxhso91UAYdmBJX4rpw/rs:fit/g:sm/q:90/h:550/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE2/MDAtMTMxNzI3MTM0/Mi5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "More Than A Feeling",
+      "duration": "4:44"
+    },
+    {
+      "position": "A2",
+      "title": "Peace Of Mind",
+      "duration": "4:55"
+    },
+    {
+      "position": "A3",
+      "title": "Foreplay/Long Time",
+      "duration": "7:56"
+    },
+    {
+      "position": "B1",
+      "title": "Rock & Roll Band",
+      "duration": "2:59"
+    },
+    {
+      "position": "B2",
+      "title": "Smokin'",
+      "duration": "4:44"
+    },
+    {
+      "position": "B3",
+      "title": "Hitch A Ride",
+      "duration": "3:18"
+    },
+    {
+      "position": "B4",
+      "title": "Something About You",
+      "duration": "4:19"
+    },
+    {
+      "position": "B5",
+      "title": "Let Me Take You Home Tonight",
+      "duration": "4:12"
+    }
+  ]
+}
