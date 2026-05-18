@@ -213,12 +213,12 @@ function VynilDetails({
                     rotate: 360,
                   },
                 }}
-                src="/img/vinyl.png"
+                src={BASE_URL + "img/vinyl.png"}
                 alt="plate"
                 className={cls.plate}
               />
             </div>
-            <audio ref={audio} controls src="/media/rainbow.mp3"></audio>
+            <audio ref={audio} controls src={BASE_URL + "media/rainbow.mp3"}></audio>
             <VynilChars
               year={plate.year}
               country={plate.country}
