@@ -2,6 +2,7 @@ import { describe, expect, it, vi } from "vitest";
 import { render, screen, within } from "@testing-library/react";
 import Vynil from "./Vinyl.tsx";
 import { userEvent } from "@testing-library/user-event";
+import '@testing-library/jest-dom';
 
 const IntersectionObserverMock = vi.fn(() => ({
   disconnect: vi.fn(),
@@ -36,7 +37,7 @@ describe("Vinyl Component", () => {
       />
     );
 
-    const imgTag = screen.getByAltText("album_cover");
+    const imgTag: HTMLImageElement = screen.getByAltText("album_cover");
     const info = screen.getByLabelText("plate-info");
 
     expect(imgTag.src).toBe("http://localhost:3000/img/pic5.jpg");

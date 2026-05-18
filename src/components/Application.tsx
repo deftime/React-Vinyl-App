@@ -7,7 +7,7 @@ import { createContext } from "react";
 import useNotes from "../hooks/useNotes.ts";
 
 export type PlateType = {
-  id: never | number;
+  id: number;
   artist: string;
   title: string;
   genre: number | string;

@@ -6,14 +6,13 @@ import { FavCollContext, type CurrentPlateType } from "../Application.tsx";
 import useFilteredReadyPlates from "../../hooks/useFilteredReadyPlates.ts";
 
 function HomePage() {
-  const { collection, favorites, changeCollection, changeFavorites } =
-    useContext(FavCollContext);
-
+  const { collection, favorites, changeCollection, changeFavorites } = useContext(FavCollContext);
   const [plateList] = useFilteredReadyPlates(collection, favorites);
-  const collList: CurrentPlateType = plateList.filter(
+
+  const collList: CurrentPlateType[] = plateList.filter(
     (plate: CurrentPlateType) => plate.inColl
   );
-  const favList: CurrentPlateType = plateList.filter(
+  const favList: CurrentPlateType[] = plateList.filter(
     (plate: CurrentPlateType) => plate.inFav
   );
 

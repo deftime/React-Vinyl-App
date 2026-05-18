@@ -2,7 +2,7 @@ import { useState } from "react";
 
 function toLocalStorage(
   coll: Array<number> | null = null
-): Array<number> | void {
+): Array<number> {
   if (coll) {
     localStorage.setItem("favorites", JSON.stringify(coll));
   } else {

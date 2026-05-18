@@ -49,7 +49,7 @@ function Note({ text, edit }: NotePropsType) {
           placeholder="Enter your note..."
           value={state.noteText ?? ""}
           onInput={(event) => {
-            dispatch({ type: "textNote", value: event.target.value });
+            dispatch({ type: "textNote", value: event.currentTarget.value });
           }}
           onBlur={handlerBlurSave}
           autoFocus

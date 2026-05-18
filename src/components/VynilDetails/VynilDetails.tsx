@@ -25,22 +25,20 @@ interface VynilDetailsPropsType {
 }
 
 export type DetailPlateType = {
-  release: {
-    id: number;
-    artist_id: number;
-    artist: string;
-    title: string;
-    all_genres: Array<number>;
-    genre: number;
-    styles: Array<string>;
-    release_date: string;
-    year: number;
-    all_countries: Array<string>;
-    country: string;
-    thumb_image: string;
-    cover_image: string;
-    tracklist: Array<TracklistType>;
-  };
+  id: number;
+  artist_id: number;
+  artist: string;
+  title: string;
+  all_genres: Array<number>;
+  genre: number;
+  styles: Array<string>;
+  release_date: string;
+  year: number;
+  all_countries: Array<string>;
+  country: string;
+  thumb_image: string;
+  cover_image: string;
+  tracklist: Array<TracklistType>;
 };
 
 export type CurrentDetailPlateType = {

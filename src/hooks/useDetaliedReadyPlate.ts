@@ -16,7 +16,7 @@ function useDetaliedReadyPlate(id: number) {
       .then((data) => data)
   );
 
-  let currentPlate: CurrentDetailPlateType | object = {};
+  let currentPlate: CurrentDetailPlateType;
 
   const loading =
     musicStyleListResponse.isLoading ||

@@ -16,5 +16,6 @@ export default meta;
 export const Default: Story = {
   args: {
     plateId: 34,
+    plateinColl: false
   },
 };

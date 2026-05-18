@@ -16,13 +16,13 @@ export default meta;
 export const Default: Story = {
   args: {
     inColl: false,
-    plateId: 0,
+    //plateId: 0,
   },
 };
 
 export const InCollection: Story = {
   args: {
     inColl: true,
-    plateId: 1,
+    //plateId: 1,
   },
 };

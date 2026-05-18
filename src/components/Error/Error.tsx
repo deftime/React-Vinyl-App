@@ -1,12 +1,10 @@
-interface ErrorMessageType {
-  message: string;
-}
+import { FallbackProps } from 'react-error-boundary';
 
-function Error({ message }: ErrorMessageType) {
+function Error({ error }: FallbackProps) {
   return (
     <>
       <div>Error!</div>
-      <div>{message}</div>
+      <div>{error.message}</div>
     </>
   );
 }

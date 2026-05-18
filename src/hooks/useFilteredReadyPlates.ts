@@ -33,7 +33,7 @@ function useFilteredReadyPlates(
     }
   );
 
-  let currentPlateList: CurrentPlateType | never[] = [];
+  let currentPlateList: CurrentPlateType[] = [];
 
   const plateList = useMemo(
     () => plateListResponse.data ?? [],
@@ -76,36 +76,3 @@ function useFilteredReadyPlates(
 }
 
 export default useFilteredReadyPlates;
-
-// if (filters) {
-//   plateList = plateList
-//     .filter((item) => {
-//       return (
-//         item.name
-//           .toLocaleLowerCase()
-//           .indexOf(filters.artist.toLocaleLowerCase()) !== -1
-//       );
-//     })
-//     .filter((item) => {
-//       if (filters.genre === "") return true;
-//       return (
-//         item.genre
-//           .toLocaleLowerCase()
-//           .indexOf(filters.genre.toLocaleLowerCase()) !== -1
-//       );
-//     })
-//     .filter((item) => {
-//       if (filters.country === "") return true;
-//       return (
-//         item.country
-//           .toLocaleLowerCase()
-//           .indexOf(filters.country.toLocaleLowerCase()) !== -1
-//       );
-//     })
-//     .filter((item) => {
-//       if (filters.decade === "") return true;
-//       const fromYear = +filters.decade.substring(0, 4);
-//       const toYear = +filters.decade.substring(5);
-//       return +item.year >= fromYear && +item.year <= toYear;
-//     });
-// }

@@ -15,7 +15,7 @@ interface vynilPropsType {
   statusSearch?: string;
   onColBtnClick: (arg0: boolean, arg1: number) => void;
   onFavBtnClick: (arg0: boolean, arg1: number) => void;
-  order: number;
+  order?: number;
 }
 
 function openReducer(state, action) {
@@ -44,18 +44,17 @@ function Vynil({
   order,
 }: vynilPropsType) {
   const [state, dispatch] = useReducer(openReducer, { open: false });
-
   const [msg, setMsg] = useState({
     show: false,
+    x: 0,
+    y: 0
   });
   const favBtn = useRef(null);
 
-  function overHandler(event: {
-    target: { getBoundingClientRect: () => never };
-  }) {
-    const params = event.target.getBoundingClientRect();
-    const top = parseInt(params.y + params.height + 10);
-    const left = parseInt(params.x);
+  function overHandler(event: React.MouseEvent<HTMLButtonElement>) {
+    const params: DOMRect = event.currentTarget.getBoundingClientRect();
+    const top: number = Math.floor(params.y + params.height + 10);
+    const left: number = Math.floor(params.x);
 
     setMsg((msg) => {
       return { show: !msg.show, x: top, y: left };
