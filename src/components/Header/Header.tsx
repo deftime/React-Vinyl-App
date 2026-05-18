@@ -15,7 +15,7 @@ function Header({ collection, favorites }: headerPropsType) {
         className={clsx(cls.btnBack, cls.navItem)}
         onClick={() => history.back()}
       >
-        <img src="/img/arr-left.svg" alt="arrow_left" />
+        <img src={BASE_URL + "img/arr-left.svg"} alt="arrow_left" />
         <span>Back</span>
       </button>
       <div className={cls.nav}>

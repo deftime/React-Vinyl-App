@@ -68,7 +68,7 @@ function Filters() {
   }
 
   if (countryList.isLoading || styleList.isLoading) {
-    return <img src="/img/loader.png" alt="loader_pic" className="loader" />;
+    return <img src={BASE_URL + "img/loader.png"} alt="loader_pic" className="loader" />;
   }
 
   return (

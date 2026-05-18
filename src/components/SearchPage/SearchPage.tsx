@@ -5,6 +5,7 @@ import useFilteredReadyPlates from "../../hooks/useFilteredReadyPlates.ts";
 import Filters from "../Filters/Filters.tsx";
 import Pagination from "../Pagination/Pagination.tsx";
 import { FavCollContext, type CurrentPlateType } from "../Application.tsx";
+import { BASE_URL } from "../../main.tsx";
 const Vynil = lazy(() => import("../Vinyl/Vinyl.tsx"));
 
 function SearchPage() {
@@ -29,7 +30,7 @@ function SearchPage() {
           <div className={cls.title}>Catalog</div>
           <div className={cls.inner}>
             {loading && (
-              <img src="/img/loader.png" alt="loader_pic" className="loader" />
+              <img src={BASE_URL + "img/loader.png"} alt="loader_pic" className="loader" />
             )}
             {plateList.map((plate: CurrentPlateType, index: number) => (
               <Vynil

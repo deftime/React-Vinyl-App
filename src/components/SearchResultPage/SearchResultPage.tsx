@@ -7,6 +7,7 @@ import Vynil from "../Vinyl/Vinyl.tsx";
 import Chip from "../Chip/Chip.tsx";
 import type { FilterFormType } from "../Filters/Filters.tsx";
 import { FavCollContext } from "../Application.tsx";
+import { BASE_URL } from "../../main.tsx";
 
 function SearchResultPage() {
   const { collection, favorites, changeCollection, changeFavorites } =
@@ -45,7 +46,7 @@ function SearchResultPage() {
         </div>
         <div className={cls.list}>
           {loading && (
-            <img src="/img/loader.png" alt="loader_pic" className="loader" />
+            <img src={BASE_URL + "img/loader.png"} alt="loader_pic" className="loader" />
           )}
           {filteredPlateList.map((plate) => (
             <Vynil
@@ -57,7 +58,7 @@ function SearchResultPage() {
           ))}
           {total === 0 && !loading && (
             <div className="not-found">
-              <img src="/img/noVinyl.png" alt="not_found_pic" />
+              <img src={BASE_URL + "img/noVinyl.png"} alt="not_found_pic" />
               <div className="err-name">
                 Ooops... Vinul not found!
                 <br />

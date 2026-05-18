@@ -25,7 +25,7 @@ const router = createBrowserRouter([
             <Suspense
               fallback={
                 <img
-                  src="/img/loader.png"
+                  src={BASE_URL + "img/loader.png"}
                   alt="loader_pic"
                   className="loader"
                 />
@@ -43,7 +43,7 @@ const router = createBrowserRouter([
             <Suspense
               fallback={
                 <img
-                  src="/img/loader.png"
+                  src={BASE_URL + "img/loader.png"}
                   alt="loader_pic"
                   className="loader"
                 />
@@ -61,7 +61,7 @@ const router = createBrowserRouter([
             <Suspense
               fallback={
                 <img
-                  src="/img/loader.png"
+                  src={BASE_URL + "img/loader.png"}
                   alt="loader_pic"
                   className="loader"
                 />

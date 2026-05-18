@@ -14,6 +14,7 @@ import VynilButton from "../VynilButton/VynilButton.tsx";
 import useDetaliedReadyPlate from "../../hooks/useDetaliedReadyPlate.ts";
 import useKeyPress from "../../hooks/useKeyPress.ts";
 import { NotesContext } from "../Application.tsx";
+import { BASE_URL } from "../../main.tsx";
 const Note = lazy(() => import("../Note/Note.tsx"));
 
 interface VynilDetailsPropsType {
@@ -116,7 +117,7 @@ function VynilDetails({
     return (
       <div className={cls.wrapper}>
         <div className={cls.inner}>
-          <img src="/img/loader.png" alt="loader" className="loader" />
+          <img src={BASE_URL + "img/loader.png"} alt="loader" className="loader" />
         </div>
       </div>
     );
@@ -137,7 +138,7 @@ function VynilDetails({
               role="button"
               tabIndex={0}
             >
-              <img src="/img/cross.svg" alt="close_cross" />
+              <img src={BASE_URL + "img/cross.svg"} alt="close_cross" />
             </div>
           </div>
           <div className={cls.scrollZone}>
@@ -164,13 +165,13 @@ function VynilDetails({
               <button ref={playBtn} className={cls.play} onClick={onPlay}>
                 {playing ? (
                   <img
-                    src="/img/pause.svg"
+                    src={BASE_URL + "img/pause.svg"}
                     alt="play_icon"
                     className={cls.pauseIcon}
                   />
                 ) : (
                   <img
-                    src="/img/play.svg"
+                    src={BASE_URL + "img/play.svg"}
                     alt="play_icon"
                     className={cls.playIcon}
                   />
